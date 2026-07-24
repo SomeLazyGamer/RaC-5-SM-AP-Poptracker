@@ -226,12 +226,12 @@ function onClear(slot_data)
             obj.CurrentStage = 1
         end
     end
-    --if slot_data['ng_plus_items'] == true then
-      --  local obj = Tracker:FindObjectForCode("NGPItem")
-       -- if obj then
-          --  obj.CurrentStage = 1
-       -- end
-    --end
+    if slot_data['ng_plus_items'] == true then
+        local obj = Tracker:FindObjectForCode("NGPItem")
+        if obj then
+            obj.CurrentStage = 1
+        end
+    end
     if slot_data['skill_points'] then
         local obj = Tracker:FindObjectForCode("Skills")
         local stage = slot_data['skill_points']
