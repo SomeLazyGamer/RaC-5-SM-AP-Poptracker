@@ -1,0 +1,1195 @@
+[
+  {
+    "name": "Lacerator",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Lacerator.png",
+    "codes": "Lacerator"
+  },
+  {
+    "name": "Acid Bomb Glove",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Acid.png",
+    "codes": "Acid"
+  },
+  {
+    "name": "Concussion Gun",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Concussion.png",
+    "codes": "Concussion"
+  },
+  {
+    "name": "Agents of Doom",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Agents.png",
+    "codes": "Agents"
+  },
+  {
+    "name": "Scorcher",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Scorcher.png",
+    "codes": "Scorcher"
+  },
+  {
+    "name": "Suck Cannon",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Suck.png",
+    "codes": "Suck"
+  },
+  {
+    "name": "Bee Mine Glove",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Bee.png",
+    "codes": "Bee"
+  },
+  {
+    "name": "Sniper Mine",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Sniper.png",
+    "codes": "Sniper"
+  },
+  {
+    "name": "Shock Rocket",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Shock.png",
+    "codes": "Shock"
+  },
+  {
+    "name": "Mootator",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Moo.png",
+    "codes": "Moo"
+  },
+  {
+    "name": "Static Barrier",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Static.png",
+    "codes": "Static"
+  },
+  {
+    "name": "Laser",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/Laser.png",
+    "codes": "Laser"
+  },
+  {
+    "name": "RYNO",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/weapon/RYNO.png",
+    "codes": "RYNO"
+  },
+  {
+    "name": "Hypershot",
+    "type": "toggle",
+    "img": "images/items/gadget/Hypershot.png",
+    "codes": "Hypershot"
+  },
+  {
+    "name": "Sprout-O-Matic",
+    "type": "toggle",
+    "img": "images/items/gadget/Sprout.png",
+    "codes": "Sprout"
+  },
+  {
+    "name": "Polarizer",
+    "type": "toggle",
+    "img": "images/items/gadget/Polar.png",
+    "codes": "Polar"
+  },
+  {
+    "name": "PDA",
+    "type": "toggle",
+    "img": "images/items/gadget/PDA.png",
+    "codes": "PDA"
+  },
+  {
+    "name": "Shrink Ray",
+    "type": "toggle",
+    "img": "images/items/gadget/Shrink.png",
+    "codes": "Shrink"
+  },
+  {
+    "name": "Bolt Grabber",
+    "type": "toggle",
+    "img": "images/items/gadget/BoltGrab.png",
+    "codes": "BoltGrab"
+  },
+  {
+    "name": "Box Breaker",
+    "type": "toggle",
+    "img": "images/items/gadget/BoxBreak.png",
+    "codes": "BoxBreak"
+  },
+  {
+    "name": "Map-O-Matic",
+    "type": "toggle",
+    "img": "images/items/gadget/Map.png",
+    "codes": "Map"
+  },
+  {
+    "name": "Pokitaru",
+    "type": "toggle",
+    "img": "images/items/planet/Pokitaru.png",
+    "codes": "Pokitaru"
+  },
+  {
+    "name": "Ryllus",
+    "type": "toggle",
+    "img": "images/items/planet/Ryllus.png",
+    "codes": "Ryllus"
+  },
+  {
+    "name": "Kalidon",
+    "type": "toggle",
+    "img": "images/items/planet/Kalidon.png",
+    "codes": "Kalidon"
+  },
+  {
+    "name": "Metalis",
+    "type": "toggle",
+    "img": "images/items/planet/Metalis.png",
+    "codes": "Metalis"
+  },
+  {
+    "name": "Dreamtime",
+    "type": "toggle",
+    "img": "images/items/planet/Dreamtime.png",
+        "codes": "Dreamtime"
+  },
+  {
+    "name": "Medical Outpost Omega Station",
+    "type": "toggle",
+    "img": "images/items/planet/Medical1.png",
+        "codes": "Station"
+  },
+  {
+    "name": "Medical Outpost Omega Wreckage",
+    "type": "toggle",
+    "img": "images/items/planet/Medical2.png",
+        "codes": "Wreckage"
+  },
+  {
+    "name": "Challax",
+    "type": "toggle",
+    "img": "images/items/planet/Challax.png",
+        "codes": "Challax"
+  },
+  {
+    "name": "Dayni Moon",
+    "type": "toggle",
+    "img": "images/items/planet/Dayni.png",
+        "codes": "Dayni Moon"
+  },
+  {
+    "name": "Inside Clank",
+    "type": "toggle",
+    "img": "images/items/planet/Clank.png",
+        "codes": "Inside Clank"
+  },
+  {
+    "name": "Quodrona",
+    "type": "toggle",
+    "img": "images/items/planet/Quodrona.png",
+    "codes": "Quodrona"
+  },
+  {
+    "name": "Wildfire Helmet",
+    "type": "toggle",
+    "img": "images/items/armor/FireHelmet.png",
+    "codes": "FireHelmet"
+  },
+  {
+    "name": "Wildfire Body Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/FireChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "FireChest",
+    "img": "images/items/armor/FireChest.png"
+      }
+    ]
+  },
+  {
+    "name": "Wildfire Gloves",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/FireGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/FireGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "FireGlove",
+    "img": "images/items/armor/FireGlove.png"
+      }
+    ]
+  },
+  {
+    "name": "Wildfire Boots",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/FireBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/FireBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/FireBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "FireBoot",
+    "img": "images/items/armor/FireBoot.png"
+      }
+    ]
+  },
+  {
+    "name": "Sludge Mk. 9 Helmet",
+    "type": "toggle",
+    "img": "images/items/armor/SluHelmet.png",
+    "codes": "SluHelmet"
+  },
+  {
+    "name": "Sludge Mk. 9 Body Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/SluChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "SluChest",
+    "img": "images/items/armor/SluChest.png"
+      }
+    ]
+  },
+  {
+    "name": "Sludge Mk. 9 Gloves",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/SluGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "SluGlove",
+    "img": "images/items/armor/SluGlove.png"
+      }
+    ]
+  },
+  {
+    "name": "Sludge Mk. 9 Boots",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "SluBoot",
+    "img": "images/items/armor/SluBoot.png"
+      }
+    ]
+  },
+  {
+    "name": "Crystallix Helmet",
+    "type": "toggle",
+    "img": "images/items/armor/CryHelmet.png",
+    "codes": "CryHelmet"
+  },
+  {
+    "name": "Crystallix Body Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "CryChest",
+    "img": "images/items/armor/CryChest.png"
+      }
+    ]
+  },
+  {
+    "name": "Crystallix Gloves",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "CryGlove",
+    "img": "images/items/armor/CryGlove.png"
+      }
+    ]
+  },
+  {
+    "name": "Crystallix Boots",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "CryBoot",
+    "img": "images/items/armor/CryBoot.png"
+      }
+    ]
+  },
+  {
+    "name": "Electroshock Helmet",
+    "type": "toggle",
+    "img": "images/items/armor/EleHelmet.png",
+    "codes": "EleHelmet"
+  },
+  {
+    "name": "Electroshock Body Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "EleChest",
+    "img": "images/items/armor/EleChest.png"
+      }
+    ]
+  },
+  {
+    "name": "Electroshock Gloves",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "EleGlove",
+    "img": "images/items/armor/EleGlove.png"
+      }
+    ]
+  },
+  {
+    "name": "Electroshock Boots",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "EleBoot",
+    "img": "images/items/armor/EleBoot.png"
+      }
+    ]
+  },
+  {
+    "name": "Mega-Bomb Helmet",
+    "type": "toggle",
+    "img": "images/items/armor/BombHelmet.png",
+    "codes": "BombHelmet"
+  },
+  {
+    "name": "Mega-Bomb Body Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "BombChest",
+    "img": "images/items/armor/BombChest.png"
+      }
+    ]
+  },
+  {
+    "name": "Mega-Bomb Gloves",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "BombGlove",
+    "img": "images/items/armor/BombGlove.png"
+      }
+    ]
+  },
+  {
+    "name": "Mega-Bomb Boots",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "BombBoot",
+    "img": "images/items/armor/BombBoot.png"
+      }
+    ]
+  },
+  {
+    "name": "Hyperborean Helmet",
+    "type": "toggle",
+    "img": "images/items/armor/HypHelmet.png",
+    "codes": "HypHelmet"
+  },
+  {
+    "name": "Hyperborean Body Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "HypChest",
+    "img": "images/items/armor/HypChest.png"
+      }
+    ]
+  },
+  {
+    "name": "Hyperborean Gloves",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "HypGlove",
+    "img": "images/items/armor/HypGlove.png"
+      }
+    ]
+  },
+  {
+    "name": "Hyperborean Boots",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "HypBoot",
+    "img": "images/items/armor/HypBoot.png"
+      }
+    ]
+  },
+  {
+    "name": "Chameleon Helmet",
+    "type": "toggle",
+    "img": "images/items/armor/ChaHelmet.png",
+    "codes": "ChaHelmet"
+  },
+  {
+    "name": "Chameleon Body Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "ChaChest",
+    "img": "images/items/armor/ChaChest.png"
+      }
+    ]
+  },
+  {
+    "name": "Chameleon Gloves",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "ChaGlove",
+    "img": "images/items/armor/ChaGlove.png"
+      }
+    ]
+  },
+  {
+    "name": "Chameleon Boots",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "ChaBoot",
+    "img": "images/items/armor/ChaBoot.png"
+      }
+    ]
+  },
+  {
+    "name": "Lacerator: Lock-On Mod",
+    "type": "toggle",
+    "img": "images/items/mods/LacMod1.png",
+    "codes": "LacMod1"
+  },
+  {
+    "name": "Lacerator: Double Barrel Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/LacMod2.png",
+    "codes": "LacMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/LacMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Acid Bomb Glove: Acid Burn Mod",
+    "type": "toggle",
+    "img": "images/items/mods/AcidMod1.png",
+    "codes": "AcidMod1"
+  },
+  {
+    "name": "Acid Bomb Glove: Epoxy Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/AcidMod2.png",
+    "codes": "AcidMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/AcidMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Concussion Gun: Wide Barrel Mod",
+    "type": "toggle",
+    "img": "images/items/mods/ConMod1.png",
+    "codes": "ConMod1"
+  },
+  {
+    "name": "Concussion Gun: Lock-On Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/ConMod2.png",
+    "codes": "ConMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ConMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Concussion Gun: Charge Up Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/ConMod3.png",
+    "codes": "ConMod3",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ConMod3.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ConMod3.png"
+      }
+    ]
+  },
+  {
+    "name": "Agents of Doom: Launcher Mod",
+    "type": "toggle",
+    "img": "images/items/mods/AgentsMod1.png",
+    "codes": "AgentsMod1"
+  },
+  {
+    "name": "Agents of Doom: Explosive Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/AgentsMod2.png",
+    "codes": "AgentsMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/AgentsMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Scorcher: Spitfire Mod",
+    "type": "toggle",
+    "img": "images/items/mods/ScorchMod1.png",
+    "codes": "ScorchMod1"
+  },
+  {
+    "name": "Scorcher: Sun Flare Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/ScorchMod2.png",
+    "codes": "ScorchMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ScorchMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Bee Mine Glove: Worker Mod",
+    "type": "toggle",
+    "img": "images/items/mods/BeeMod1.png",
+    "codes": "BeeMod1"
+  },
+  {
+    "name": "Bee Mine Glove: Hive Bomb Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/BeeMod2.png",
+    "codes": "BeeMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/BeeMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mine: Split Beam Mod",
+    "type": "toggle",
+    "img": "images/items/mods/SniperMod1.png",
+    "codes": "SniperMod1"
+  },
+  {
+    "name": "Sniper Mine: Smart Reflector Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/SniperMod2.png",
+    "codes": "SniperMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/SniperMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Shock Rocket: After Shock Mod",
+    "type": "toggle",
+    "img": "images/items/mods/ShockMod1.png",
+    "codes": "ShockMod1"
+  },
+  {
+    "name": "Shock Rocket: Lock-On Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/ShockMod2.png",
+    "codes": "ShockMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ShockMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Shock Rocket: Multi-Launcher Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/ShockMod3.png",
+    "codes": "ShockMod3",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ShockMod3.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ShockMod3.png"
+      }
+    ]
+  },
+  {
+    "name": "Static Barrier: Reflection Mod",
+    "type": "toggle",
+    "img": "images/items/mods/StaticMod1.png",
+    "codes": "StaticMod1"
+  },
+  {
+    "name": "Static Barrier: Mirage Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/StaticMod2.png",
+    "codes": "StaticMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/StaticMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Laser Tracer: Ricochet Mod",
+    "type": "toggle",
+    "img": "images/items/mods/LaserMod1.png",
+    "codes": "LaserMod1"
+  },
+  {
+    "name": "Laser Tracer: Pierce Mod",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/mods/LaserMod2.png",
+    "codes": "LaserMod2",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/LaserMod2.png"
+      }
+    ]
+  },
+  {
+    "name": "Mission Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/MissionsOff.png",
+          "name": "Mission Checks - Off",
+          "codes": "Missions,MissionsOff"
+      },
+      {
+        "img": "images/items/settings/MissionsOn.png",
+        "name": "Mission Checks - On",
+        "codes": "Missions,MissionsOn"
+      }
+    ]
+  },
+  {
+    "name": "Cutscene Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/CutscenesOff.png",
+          "name": "Cutscene Checks - Off",
+          "codes": "Cutscenes,CutscenesOff"
+      },
+      {
+        "img": "images/items/settings/CutscenesOn.png",
+        "name": "Cutscene Checks - On",
+        "codes": "Cutscenes,CutscenesOn"
+      }
+    ]
+  },
+  {
+    "name": "Progressive Weapons",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ProgWeapOff.png",
+          "name": "Progressive Weapons - Off",
+          "inherit_codes": false,
+          "codes": "ProgWeap,ProgWeapOff"
+      },
+      {
+        "img": "images/items/settings/ProgWeapOn.png",
+        "name": "Progressive Weapons - On",
+        "inherit_codes": false,
+        "codes": "ProgWeap,ProgWeapOn"
+      }
+    ]
+  },
+  {
+    "name": "Progressive Mods",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ProgModsOff.png",
+          "name": "Progressive Mods - Off",
+          "codes": "ProgMods,ProgModsOff"
+      },
+      {
+        "img": "images/items/settings/ProgModsOn.png",
+        "name": "Progressive Mods - On",
+        "codes": "ProgMods,ProgModsOn"
+      }
+    ]
+  },
+  {
+    "name": "Progressive Armor",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ProgArmorOff.png",
+          "name": "Progressive Armor - Off",
+          "codes": "ProgArmor,ProgArmorOff"
+      },
+      {
+        "img": "images/items/settings/ProgArmorOn.png",
+        "name": "Progressive Armor - On",
+        "codes": "ProgArmor,ProgArmorOn"
+      }
+    ]
+  },
+  {
+    "name": "Clank Challenges",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ClankChallOff.png",
+          "name": "Clank Challenges - Off",
+          "codes": "ClankChall,ClankChallOff"
+      },
+      {
+        "img": "images/items/settings/ClankChallItem.png",
+        "name": "Clank Challenges - Item Challenges",
+        "codes": "ClankChall,ClankChallItem"
+      },
+      {
+        "img": "images/items/settings/ClankChallOn.png",
+        "name": "Clank Challenges - On",
+        "codes": "ClankChall,ClankChallOn"
+      }
+    ]
+  },
+  {
+    "name": "Skyboarder Challenges",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/SkyChallOff.png",
+          "name": "Skyboarder Challenges - Off",
+          "codes": "SkyChall,SkyChallOff"
+      },
+      {
+        "img": "images/items/settings/SkyChallOn.png",
+        "name": "Skyboarder Challenges - On",
+        "codes": "SkyChall,SkyChallOn"
+      }
+    ]
+  },
+  {
+    "name": "Armor Sets",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ArmorSetsOff.png",
+          "name": "Armor Sets - Off",
+          "codes": "ArmorSets,ArmorSetsOff"
+      },
+      {
+        "img": "images/items/settings/ArmorSetsOn.png",
+        "name": "Armor Sets - On",
+        "codes": "ArmorSets,ArmorSetsOn"
+      }
+    ]
+  },
+  {
+    "name": "NGPlus Items",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/NGPItemsOff.png",
+          "name": "NGPlus Items - Off",
+          "codes": "NGPItem,NGPItemOff"
+      },
+      {
+        "img": "images/items/settings/NGPItemsOn.png",
+        "name": "NGPlus Items - On",
+        "codes": "NGPItem,NGPItemOn"
+      }
+    ]
+  },
+  {
+    "name": "Skill Points",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/SkillsOff.png",
+          "name": "Skill Points - Off",
+          "codes": "Skills,SkillsOff"
+      },
+      {
+        "img": "images/items/settings/SkillsEasy.png",
+        "name": "Skill Points - Easy",
+        "codes": "Skills,SkillsEasy"
+      },
+      {
+        "img": "images/items/settings/SkillsOn.png",
+        "name": "Skill Points - On",
+        "codes": "Skills,SkillsOn"
+      }
+    ]
+  },
+  {
+    "name": "Clank Skill Points",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ClankSkillsOff.png",
+          "name": "Clank Skill Points - Off",
+          "codes": "ClankSkills,ClankSkillsOff"
+      },
+      {
+        "img": "images/items/settings/ClankSkillsOn.png",
+        "name": "Clank Skill Points - On",
+        "codes": "ClankSkills,ClankSkillsOn"
+      }
+    ]
+  },
+  {
+    "name": "Skyboarder Skill Points",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/SkySkillsOff.png",
+          "name": "Skyboarder Skill Points - Off",
+          "codes": "SkySkills,SkySkillsOff"
+      },
+      {
+        "img": "images/items/settings/SkySkillsOn.png",
+        "name": "Skyboarder Skill Points - On",
+        "codes": "SkySkills,SkySkillsOn"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Level Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/WeapLVLOff.png",
+          "name": "Weapon Level Checks - Off",
+          "codes": "WeapLVL,WeapLVLOff"
+      },
+      {
+        "img": "images/items/settings/WeapLVLMax.png",
+        "name": "Weapon Level Checks - Max Level",
+        "codes": "WeapLVL,WeapLVLMax"
+      },
+      {
+        "img": "images/items/settings/WeapLVLOn.png",
+        "name": "Weapon Level Checks - On",
+        "codes": "WeapLVL,WeapLVLOn"
+      }
+    ]
+  },
+  {
+    "name": "Auto-Tabbing",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/items/settings/AutoTabOn.png",
+    "disabled_img": "images/items/settings/AutoTabOff.png",
+    "disabled_img_mods": "none",
+    "codes": "AutoTab"
+  }
+]

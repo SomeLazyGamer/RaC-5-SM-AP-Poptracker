@@ -1,0 +1,104 @@
+{
+  "mod_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "LacMod1",
+                "LacMod2",
+                "AcidMod1",
+                "AcidMod2",
+                "AgentsMod1",
+                "AgentsMod2"
+              ],
+              [
+                "ConMod1",
+                "ConMod2",
+                "ConMod3",
+                "ShockMod1",
+                "ShockMod2",
+                "ShockMod3"
+              ],
+              [
+                "ScorchMod1",
+                "ScorchMod2",
+                "BeeMod1",
+                "BeeMod2",
+                "SniperMod1",
+                "SniperMod2"
+              ],
+              [
+                "StaticMod1",
+                "StaticMod2",
+                "LaserMod1",
+                "LaserMod2"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "broadcast_mod_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "LacMod1",
+                "LacMod2",
+                "AcidMod1",
+                "AcidMod2",
+                "AgentsMod1",
+                "AgentsMod2"
+              ],
+              [
+                "ConMod1",
+                "ConMod2",
+                "ConMod3",
+                "ShockMod1",
+                "ShockMod2",
+                "ShockMod3"
+              ],
+              [
+                "ScorchMod1",
+                "ScorchMod2",
+                "BeeMod1",
+                "BeeMod2",
+                "SniperMod1",
+                "SniperMod2"
+              ],
+              [
+                "StaticMod1",
+                "StaticMod2",
+                "LaserMod1",
+                "LaserMod2"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "armor_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "FireHelmet",
+                "SluHelmet",
+                "CryHelmet",
+                "EleHelmet",
+                "BombHelmet",
+                "HypHelmet",
+                "ChaHelmet"
+              ],
+              [
+                "FireChest",
+                "SluChest",
+                "CryChest",
+                "EleChest",
+                "BombChest",
+                "HypChest",
+                "ChaChest"
+              ],
+              [
+                "FireGlove",
+                "SluGlove",
+                "CryGlove",
+                "EleGlove",
+                "BombGlove",
+                "HypGlove",
+                "ChaGlove"
+              ],
+              [
+                "FireBoot",
+                "SluBoot",
+                "CryBoot",
+                "EleBoot",
+                "BombBoot",
+                "HypBoot",
+                "ChaBoot"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "broadcast_armor_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "FireHelmet",
+                "SluHelmet",
+                "CryHelmet",
+                "EleHelmet",
+                "BombHelmet",
+                "HypHelmet",
+                "ChaHelmet"
+              ],
+              [
+                "FireChest",
+                "SluChest",
+                "CryChest",
+                "EleChest",
+                "BombChest",
+                "HypChest",
+                "ChaChest"
+              ],
+              [
+                "FireGlove",
+                "SluGlove",
+                "CryGlove",
+                "EleGlove",
+                "BombGlove",
+                "HypGlove",
+                "ChaGlove"
+              ],
+              [
+                "FireBoot",
+                "SluBoot",
+                "CryBoot",
+                "EleBoot",
+                "BombBoot",
+                "HypBoot",
+                "ChaBoot"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

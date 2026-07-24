@@ -1,0 +1,46 @@
+{
+  "settings_popup": {
+    "type": "group",
+    "margin": "0,0",
+    "header": "Archipelago Settings",
+    "background": "#1B2424",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "item_size": "323, 39",
+        "rows": [
+          [
+            "ProgWeap",
+            "Skills"
+          ],
+          [
+            "ProgMods",
+            "ClankSkills"
+          ],
+          [
+            "ProgArmor",
+            "SkySkills"
+          ],
+          [
+            "Missions",
+            "ArmorSets"
+          ],
+          [
+            "Cutscenes",
+            "WeapLVL"
+          ],
+          [
+            "ClankChall",
+            "NGPItem"
+          ],
+          [
+            "SkyChall",
+            "AutoTab"
+          ]
+        ]
+      }
+    ]
+  }
+}

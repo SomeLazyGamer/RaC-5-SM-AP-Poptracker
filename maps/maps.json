@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Galaxy",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Galaxy.png"
+  },
+  {
+    "name": "Pokitaru",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Pokitaru_map.png"
+  },
+  {
+    "name": "Ryllus",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Ryllus_map.png"
+  },
+  {
+    "name": "Ryllus Clank",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Ryllus_2_map.png"
+  },
+  {
+    "name": "Kalidon",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Kalidon_map.png"
+  },
+  {
+    "name": "Metalis",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Metalis_map.png"
+  },
+  {
+    "name": "Dreamtime",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Dreamtime_map.png"
+  },
+  {
+    "name": "Medical Outpost Omega",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Outpost_Omega_1_map.png"
+  },
+  {
+    "name": "Challax",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Challax_map.png"
+  },
+  {
+    "name": "Challax Dropship",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Challax_2_map.png"
+  },
+  {
+    "name": "Dayni Moon",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Dayni_Moon_map.png"
+  },
+  {
+    "name": "Inside Clank Body",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Inside_Clank_map_section_1.png"
+  },
+  {
+    "name": "Inside Clank Head",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Inside_Clank_map_section_2.png"
+  },
+  {
+    "name": "Quodrona",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Quodrona_map.png"
+  }
+]

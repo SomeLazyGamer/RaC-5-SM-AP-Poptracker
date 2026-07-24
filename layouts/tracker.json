@@ -1,0 +1,161 @@
+{
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#4A6A7D",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "items_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Planets",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "planets_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Armor Pieces",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "armor_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Weapon Mods",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "mod_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Galaxy",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Galaxy"
+                ]
+              }
+            },
+            {
+              "title": "Pokitaru",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Pokitaru"
+                ]
+              }
+            },
+            {
+              "title": "Ryllus",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Ryllus",
+                  "Ryllus Clank"
+                ]
+              }
+            },
+            {
+              "title": "Kalidon",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Kalidon"
+                ]
+              }
+            },
+            {
+              "title": "Metalis",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Metalis"
+                ]
+              }
+            },
+            {
+              "title": "Dreamtime",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Dreamtime"
+                ]
+              }
+            },
+            {
+              "title": "Medical Outpost Omega",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Medical Outpost Omega"
+                ]
+              }
+            },
+            {
+              "title": "Challax",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Challax",
+                  "Challax Dropship"
+                ]
+              }
+            },
+            {
+              "title": "Dayni Moon",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Dayni Moon"
+                ]
+              }
+            },
+            {
+              "title": "Inside Clank",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Inside Clank Body",
+                  "Inside Clank Head"
+                ]
+              }
+            },
+            {
+              "title": "Quodrona",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Quodrona"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

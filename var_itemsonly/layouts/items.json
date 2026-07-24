@@ -1,0 +1,70 @@
+{
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "6, 2",
+            "h_alignment": "left",
+            "item_size": "36",
+            "rows": [
+              [
+                "Lacerator",
+                "Acid",
+                "Concussion",
+                "Agents",
+                "Scorcher",
+                "Hypershot",
+                "Sprout"
+              ],
+              [
+                "Bee",
+                "Suck",
+                "Sniper",
+                "Moo",
+                "Shock",
+                "Polar",
+                "Shrink"
+              ],
+              [
+                "Static",
+                "Laser",
+                "RYNO",
+                "BoltGrab",
+                "BoxBreak",
+                "Map",
+                "PDA"
+              ]
+            ]
+          },
+          {
+            "type": "layout",
+            "key": "broadcast_planets_grid"
+          }
+        ]
+      },
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "layout",
+            "key": "broadcast_armor_grid"
+          },
+          {
+            "type": "layout",
+            "key": "broadcast_mod_grid"
+          }
+        ]
+      }
+    ]
+  }
+}
