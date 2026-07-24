@@ -1,7 +1,7 @@
-{"name": "Ratchet & Clank 3 Archipelago",
-  "game_name": "Ratchet & Clank 3: Up your Arsenal",
-  "package_version": "1.5.5",
-  "package_uid": "RaC3_Tracker_SLG",
+{"name": "Ratchet & Clank 5: Size Matters Archipelago",
+  "game_name": "Ratchet & Clank 5: Size Matters",
+  "package_version": "1.0.0",
+  "package_uid": "RaC5_Tracker_SLG",
   "author": "SomeLazyGamer",
   "min_poptracker_version": "0.25.9",
   "target_poptracker_version": "0.32.0",
@@ -19,5 +19,5 @@
       ]
     }
   },
-  "versions_url": "https://raw.githubusercontent.com/SomeLazyGamer/RaC-3-UYA-AP-Poptracker/refs/heads/main/versions.json"
+  "versions_url": "https://raw.githubusercontent.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/refs/heads/main/versions.json"
 }
