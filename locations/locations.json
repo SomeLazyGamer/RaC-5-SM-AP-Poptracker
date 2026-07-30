@@ -1,8 +1,6 @@
 [
 {
     "name": "Galaxy",
-    "chest_unopened_img": "images/Question.png",
-    "chest_opened_img": "images/complete.png",
     "children": [
       {
         "name": "Pokitaru",
@@ -15,22 +13,6 @@
           }
         ],
         "sections": [
-          {
-            "name": "Enter Planet",
-            "ref": "Pokitaru/Jowai Resort/Enter Planet"
-          },
-          {
-            "name": "Fight some robots (Complete Luna's photoshoot)",
-            "ref": "Pokitaru/Fight some robots/Complete Luna's Photoshoot"
-          },
-          {
-            "name": "Wildfire Chestplate on bridge",
-            "ref": "Pokitaru/On Bridge/Wildfire Chestplate"
-          },
-          {
-            "name": "Wildfire Gloves in the skuttle crab cave",
-            "ref": "Pokitaru/In the Skuttle Crab Cave/Wildfire Gloves"
-          },
           {
             "name": "Gadgetron Vendor: Lacerator - 0",
             "ref": "Pokitaru/Gadgetron Vendor/Lacerator - 0"
@@ -48,6 +30,30 @@
             "ref": "Pokitaru/Gadgetron Vendor/Hypershot - 5,000"
           },
           {
+            "name": "Wildfire Chestplate on bridge",
+            "ref": "Pokitaru/On Bridge/Wildfire Chestplate"
+          },
+          {
+            "name": "Wildfire Gloves in the skuttle crab cave",
+            "ref": "Pokitaru/In the Skuttle Crab Cave/Wildfire Gloves"
+          },
+          {
+            "name": "T-Bolt: Above Zipline",
+            "ref": "Pokitaru/Above Zipline/T-Bolt"
+          },
+          {
+            "name": "T-Bolt: Behind Hut",
+            "ref": "Pokitaru/Behind Hut/T-Bolt"
+          },
+          {
+            "name": "Enter Planet",
+            "ref": "Pokitaru/Jowai Resort/Enter Planet"
+          },
+          {
+            "name": "Fight some robots (Complete Luna's photoshoot)",
+            "ref": "Pokitaru/Fight some robots/Complete Luna's Photoshoot"
+          },
+          {
             "name": "Skill Point: Train Faster",
             "ref": "Pokitaru/Skill Point: Train Faster/Complete the training portion of Pokitaru in less than 1:32."
           },
@@ -58,14 +64,6 @@
           {
             "name": "Skill Point: Do Cows Get Crabby?",
             "ref": "Pokitaru/Skill Point: Do Cows Get Crabby?/Turn 26 crabs into cows with the Mootator or Armoogeddon."
-          },
-          {
-            "name": "T-Bolt: Above Zipline",
-            "ref": "Pokitaru/Above Zipline/T-Bolt"
-          },
-          {
-            "name": "T-Bolt: Behind Hut",
-            "ref": "Pokitaru/Behind Hut/T-Bolt"
           }
         ]
       },
@@ -81,12 +79,8 @@
         ],
         "sections": [
           {
-            "name": "Enter Planet",
-            "ref": "Ryllus/Vegeta Jungle/Enter Planet"
-          },
-          {
-            "name": "Buzzing Cameras",
-            "ref": "Ryllus/Buzzing Cameras/Just ignore them."
+            "name": "Gadgetron Vendor: Agents of Doom - 25,000",
+            "ref": "Ryllus/Gadgetron Vendor/Agents of Doom - 25,000"
           },
           {
             "name": "Receive Sprout-O-Matic",
@@ -101,16 +95,28 @@
             "ref": "Ryllus/Before Temple Entrance/Wildfire Helmet"
           },
           {
+            "name": "T-Bolt: Down The Cliff",
+            "ref": "Ryllus/Down The Cliff/T-Bolt"
+          },
+          {
+            "name": "T-Bolt: After the Wall",
+            "ref": "Ryllus/After the Wall/T-Bolt"
+          },
+          {
+            "name": "Enter Planet",
+            "ref": "Ryllus/Vegeta Jungle/Enter Planet"
+          },
+          {
+            "name": "Buzzing Cameras",
+            "ref": "Ryllus/Buzzing Cameras/Just ignore them."
+          },
+          {
             "name": "Investigate the artifact (Reach the temple)",
             "ref": "Ryllus/Investigate the Artifact/Reach the Temple"
           },
           {
             "name": "Unlock the temple",
             "ref": "Ryllus/Unlock the Temple/See? I told ya. Big waste of time."
-          },
-          {
-            "name": "Gadgetron Vendor: Agents of Doom - 25,000",
-            "ref": "Ryllus/Gadgetron Vendor/Agents of Doom - 25,000"
           },
           {
             "name": "Skill Point: Bury the Pygmies",
@@ -123,14 +129,6 @@
           {
             "name": "Skill Point: Ship It",
             "ref": "Ryllus/Skill Point: Ship It/Break all the crates on the level."
-          },
-          {
-            "name": "T-Bolt: Down The Cliff",
-            "ref": "Ryllus/Down The Cliff/T-Bolt"
-          },
-          {
-            "name": "T-Bolt: After the Wall",
-            "ref": "Ryllus/After the Wall/T-Bolt"
           }
         ]
       },
@@ -146,6 +144,42 @@
         ],
         "sections": [
           {
+            "name": "Gadgetron Vendor: Scorcher - 20,000",
+            "ref": "Kalidon/Gadgetron Vendor/Scorcher - 20,000"
+          },
+          {
+            "name": "Slim Cognito: Lacerator Lock On Mod - 5,000",
+            "ref": "Kalidon/Slim Cognito/Lacerator Lock On Mod - 5,000"
+          },
+          {
+            "name": "Slim Cognito: Concussion Gun Split Barrel Mod - 15,000",
+            "ref": "Kalidon/Slim Cognito/Concussion Gun Split Barrel Mod - 15,000"
+          },
+          {
+            "name": "Receive Shrink Ray",
+            "ref": "Kalidon/Skyboarder/Receive Shrink Ray"
+          },
+          {
+            "name": "Wildfire Boots inside factory",
+            "ref": "Kalidon/Inside Factory/Wildfire Boots"
+          },
+          {
+            "name": "Sludge Mk9 Chestplate from Mundo Fight",
+            "ref": "Kalidon/Mundo Fight/Sludge Mk9 Chestplate"
+          },
+          {
+            "name": "T-Bolt: Behind Ship",
+            "ref": "Kalidon/Behind Ship/T-Bolt"
+          },
+          {
+            "name": "T-Bolt: Side of Mechanoid Factory",
+            "ref": "Kalidon/Side of Mechanoid Factory/T-Bolt"
+          },
+          {
+            "name": "T-Bolt: Grav-Ramps",
+            "ref": "Kalidon/Grav-Ramps/T-Bolt"
+          },
+          {
             "name": "Enter Planet",
             "ref": "Kalidon/Mechanoid Factory/Enter Planet"
           },
@@ -156,10 +190,6 @@
           {
             "name": "Win the skyboard race (Complete Learner's Permit)",
             "ref": "Kalidon/Skyboarder/Win the skyboard race (Complete Learner's Permit)"
-          },
-          {
-            "name": "Receive Shrink Ray",
-            "ref": "Kalidon/Skyboarder/Receive Shrink Ray"
           },
           {
             "name": "Skyboard Challenge: Learner's Challenge",
@@ -182,44 +212,12 @@
             "ref": "Kalidon/Skyboarder/SP: Be A Cool Skyboarder (Win a race without boosting.)"
           },
           {
-            "name": "Wildfire Boots inside factory",
-            "ref": "Kalidon/Inside Factory/Wildfire Boots"
-          },
-          {
-            "name": "Sludge Mk9 Chestplate from Mundo Fight",
-            "ref": "Kalidon/Mundo Fight/Sludge Mk9 Chestplate"
-          },
-          {
-            "name": "Gadgetron Vendor: Scorcher - 20,000",
-            "ref": "Kalidon/Gadgetron Vendor/Scorcher - 20,000"
-          },
-          {
-            "name": "Slim Cognito: Lacerator Lock On Mod - 5,000",
-            "ref": "Kalidon/Slim Cognito/Lacerator Lock On Mod - 5,000"
-          },
-          {
-            "name": "Slim Cognito: Concussion Gun Split Barrel Mod - 15,000",
-            "ref": "Kalidon/Slim Cognito/Concussion Gun Split Barrel Mod - 15,000"
-          },
-          {
             "name": "Skill Point: Explosive Ordnance Disposal",
             "ref": "Kalidon/Skill Point: Explosive Ordnance Disposal/Clear all the remote bombs in the Gravity Boot sphere."
           },
           {
             "name": "Skill Point: Super Lombax",
             "ref": "Kalidon/Skill Point: Super Lombax/Kill 25 enemies in a row without getting hit."
-          },
-          {
-            "name": "T-Bolt: Behind Ship",
-            "ref": "Kalidon/Behind Ship/T-Bolt"
-          },
-          {
-            "name": "T-Bolt: Side of Mechanoid Factory",
-            "ref": "Kalidon/Side of Mechanoid Factory/T-Bolt"
-          },
-          {
-            "name": "T-Bolt: Grav-Ramps",
-            "ref": "Kalidon/Grav-Ramps/T-Bolt"
           }
         ]
       },
@@ -234,6 +232,10 @@
           }
         ],
         "sections": [
+          {
+            "name": "T-Bolt: Behind the Polarized Door",
+            "ref": "Metalis/Behind the Polarized Door/T-Bolt"
+          },
           {
             "name": "Enter Planet",
             "ref": "Metalis/Junkyard LXIV/Enter Planet"
@@ -309,16 +311,12 @@
           {
             "name": "Skill Point: Ultimate Gladiator",
             "ref": "Metalis/Clank Challenges/SP: Ultimate Gladiator (Complete all Clank arena challenges.)"
-          },
-          {
-            "name": "T-Bolt: Behind the Polarized Door",
-            "ref": "Metalis/Behind the Polarized Door/T-Bolt"
           }
         ]
       },
       {
         "name": "Dreamtime",
-        "access_rules": [ "Wreckage" ],
+        "access_rules": [ "Wreckage, Sprout, Hypershot" ],
         "map_locations": [
           {
             "map": "Galaxy",
@@ -328,32 +326,12 @@
         ],
         "sections": [
           {
-            "name": "Enter Planet", 
-            "ref": "Dreamtime/???/Enter Planet"
-          },
-          {
-            "name": "Clank finds sleeping Ratchet",
-            "ref": "Dreamtime/Clank finds sleeping Ratchet/There's still so much to do!"
-          },
-          {
-            "name": "Crystallix Chestplate after Giant Clank chase",
-            "ref": "Dreamtime/Giant Clank Fight/Crystallix Chestplate After Giant Clank Chase"
-          },
-          {
-            "name": "Complete Dreamtime",
-            "ref": "Dreamtime/Giant Clank Fight/Complete Dreamtime"
-          },
-          {
-            "name": "Skill Point: Friends Don't Hurt Friends",
-            "ref": "Dreamtime/Giant Clank Fight/SP: Friends Don't Hurt Friends (Get through Giant Clank hitless.)"
-          },
-          {
             "name": "Gadgetron Vendor: Suck Cannon - 30,000",
             "ref": "Dreamtime/Gadgetron Vendor/Suck Cannon - 30,000"
           },
           {
-            "name": "Skill Point: Night Terrors",
-            "ref": "Dreamtime/Final Area/SP: Night Terrors (Defeat the final waves within 45 seconds.)"
+            "name": "Crystallix Chestplate after Giant Clank chase",
+            "ref": "Dreamtime/Giant Clank Fight/Crystallix Chestplate After Giant Clank Chase"
           },
           {
             "name": "T-Bolt: Atop the floating hat",
@@ -366,6 +344,26 @@
           {
             "name": "T-Bolt: Apparition of the Scuttle Crab",
             "ref": "Dreamtime/Final Area/T-Bolt: Apparition of the Scuttle Crab"
+          },
+          {
+            "name": "Enter Planet", 
+            "ref": "Dreamtime/???/Enter Planet"
+          },
+          {
+            "name": "Clank finds sleeping Ratchet",
+            "ref": "Dreamtime/Clank finds sleeping Ratchet/There's still so much to do!"
+          },
+          {
+            "name": "Complete Dreamtime",
+            "ref": "Dreamtime/Giant Clank Fight/Complete Dreamtime"
+          },
+          {
+            "name": "Skill Point: Friends Don't Hurt Friends",
+            "ref": "Dreamtime/Giant Clank Fight/SP: Friends Don't Hurt Friends (Get through Giant Clank hitless.)"
+          },
+          {
+            "name": "Skill Point: Night Terrors",
+            "ref": "Dreamtime/Final Area/SP: Night Terrors (Defeat the final waves within 45 seconds.)"
           }
         ]
       },
@@ -380,6 +378,14 @@
           }
         ],
         "sections": [
+          {
+            "name": "Gadgetron Vendor: Bee Mine Glove - 50,000",
+            "ref": "Medical Outpost Omega/Gadgetron Vendor/Bee Mine Glove - 50,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Box Breaker - 20,000",
+            "ref": "Medical Outpost Omega/Gadgetron Vendor/Box Breaker - 20,000"
+          },
           {
             "name": "Crystallix Boots during escape",
             "ref": "Medical Outpost Omega/Near Dreamtime/Crystallix Boots"
@@ -413,14 +419,6 @@
             "ref": "Medical Outpost Omega/Skyboarder/SP: Be An Awesome Skyboarder (Beat Vertigo in under 3:25.)"
           },
           {
-            "name": "Gadgetron Vendor: Bee Mine Glove - 50,000",
-            "ref": "Medical Outpost Omega/Gadgetron Vendor/Bee Mine Glove - 50,000"
-          },
-          {
-            "name": "Gadgetron Vendor: Box Breaker - 20,000",
-            "ref": "Medical Outpost Omega/Gadgetron Vendor/Box Breaker - 20,000"
-          },
-          {
             "name": "Enter Planet",
             "ref": "Medical Outpost Omega/Surgical Factory/Enter Planet"
           },
@@ -445,14 +443,6 @@
           }
         ],
         "sections": [
-          {
-            "name": "Enter Planet",
-            "ref": "Challax/Technomite City/Enter Planet"
-          },
-          {
-            "name": "Electroshock Helmet after Dropship fight",
-            "ref": "Challax/After Dropship fight/Electroshock Helmet"
-          },
           {
             "name": "Gadgetron Vendor: Sniper Mine - 50,000",
             "ref": "Challax/Gadgetron Vendor/Sniper Mine - 50,000"
@@ -490,8 +480,8 @@
             "ref": "Challax/Slim Cognito/Bee Mine Glove Worker Mod - 5,000"
           },
           {
-            "name": "Skill Point: High Tech Weapons Master",
-            "ref": "Challax/Skill Point: High Tech Weapons Master/Beat the enemy segment without using the Lacerator, Acid Bomb Glove, Concussion Gun, Shock Rocket, Laser Tracer, Sniper Mine or the RYNO."
+            "name": "Electroshock Helmet after Dropship fight",
+            "ref": "Challax/After Dropship fight/Electroshock Helmet"
           },
           {
             "name": "T-Bolt: Beside The Ultra Mech Pad", 
@@ -504,6 +494,14 @@
           {
             "name": "T-Bolt: Mimic Plant Lob", 
             "ref": "Challax/Mimic Plant Lob/T-Bolt"
+          },
+          {
+            "name": "Enter Planet",
+            "ref": "Challax/Technomite City/Enter Planet"
+          },
+          {
+            "name": "Skill Point: High Tech Weapons Master",
+            "ref": "Challax/Skill Point: High Tech Weapons Master/Beat the enemy segment without using the Lacerator, Acid Bomb Glove, Concussion Gun, Shock Rocket, Laser Tracer, Sniper Mine or the RYNO."
           }
         ]
       },
@@ -519,8 +517,24 @@
         ],
         "sections": [
           {
+            "name": "Gadgetron Vendor: Shock Rocket - 55,000",
+            "ref": "Dayni Moon/Gadgetron Vendor/Shock Rocket - 55,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Map-O-Matic - 50,000",
+            "ref": "Dayni Moon/Gadgetron Vendor/Map-O-Matic - 50,000"
+          },
+          {
             "name": "Mega Bomb Helmet before Luna fight",
             "ref": "Dayni Moon/Before Luna Fight/Mega Bomb Helmet"
+          },
+          {
+            "name": "T-Bolt: Planting at the Barnyard",
+            "ref": "Dayni Moon/Planting at the Barnyard/T-Bolt"
+          },
+          {
+            "name": "T-Bolt: Bounce on the Blue mimic",
+            "ref": "Dayni Moon/Bounce on the Blue Mimic/T-Bolt"
           },
           {
             "name": "Catch Luna",
@@ -537,6 +551,14 @@
           {
             "name": "Defeat Luna",
             "ref": "Dayni Moon/Luna/Defeat Luna"
+          },
+          {
+            "name": "Skill Point: Bouncy, Bouncy, Bouncy",
+            "ref": "Dayni Moon/Skill Point: Bouncy, Bouncy, Bouncy/High-jump on a bouncy plant 10 times in a row."
+          },
+          {
+            "name": "Skill Point: Wool Protest",
+            "ref": "Dayni Moon/Skill Point: Wool Protest/Complete level 8 without killing any Angry Rams."
           },
           {
             "name": "Clank Challenge: Welcome to Dayni",
@@ -601,36 +623,12 @@
           {
             "name": "Skill Point: Ultimate Gladiator",
             "ref": "Dayni Moon/Clank Challenges/SP: Ultimate Gladiator (Complete all Clank arena challenges.)"
-          },
-          {
-            "name": "Gadgetron Vendor: Shock Rocket - 55,000",
-            "ref": "Dayni Moon/Gadgetron Vendor/Shock Rocket - 55,000"
-          },
-          {
-            "name": "Gadgetron Vendor: Map-O-Matic - 50,000",
-            "ref": "Dayni Moon/Gadgetron Vendor/Map-O-Matic - 50,000"
-          },
-          {
-            "name": "Skill Point: Bouncy, Bouncy, Bouncy",
-            "ref": "Dayni Moon/Skill Point: Bouncy, Bouncy, Bouncy/High-jump on a bouncy plant 10 times in a row."
-          },
-          {
-            "name": "Skill Point: Wool Protest",
-            "ref": "Dayni Moon/Skill Point: Wool Protest/Complete level 8 without killing any Angry Rams."
-          },
-          {
-            "name": "T-Bolt: Planting at the Barnyard",
-            "ref": "Dayni Moon/Planting at the Barnyard/T-Bolt"
-          },
-          {
-            "name": "T-Bolt: Bounce on the Blue mimic",
-            "ref": "Dayni Moon/Bounce on the Blue Mimic/T-Bolt"
           }
         ]
       },
       {
         "name": "Inside Clank",
-        "access_rules": [ "Dayni, Sprout" ],
+        "access_rules": [ "Dayni Moon" ],
         "map_locations": [
           {
             "map": "Galaxy",
@@ -640,32 +638,12 @@
         ],
         "sections": [
           {
-            "name": "Enter Planet",
-            "ref": "Inside Clank/Clank's Body/Enter Planet"
-          },
-          {
-            "name": "Defeat all Technomites",
-            "ref": "Inside Clank/Defeat all Technomites/Stand back son..."
-          },
-          {
-            "name": "Mega Bomb Chestplate",
-            "ref": "Inside Clank/Clank's Mouth/Mega Bomb Chestplate"
-          },
-          {
-            "name": "Escape from Clank",
-            "ref": "Inside Clank/Escape from Clank/What happened?!"
-          },
-          {
             "name": "Gadgetron Vendor: Static Barrier - 65,000",
             "ref": "Inside Clank/Gadgetron Vendor/Static Barrier - 65,000"
           },
           {
-            "name": "Skill Point: Ratchet... Just Ratchet",
-            "ref": "Inside Clank/Skill Point: Ratchet... Just Ratchet/Beat the enemy segment using only the wrench."
-          },
-          {
-            "name": "Skill Point: Not the Shock of Me Now",
-            "ref": "Inside Clank/Skill Point: Not the Shock of Me Now/Don't get hit at all while inside Clank's head"
+            "name": "Mega Bomb Chestplate",
+            "ref": "Inside Clank/Clank's Mouth/Mega Bomb Chestplate"
           },
           {
             "name": "T-Bolt: Walk behind the ladder",
@@ -674,6 +652,26 @@
           {
             "name": "T-Bolt: Wall jumping Technomite",
             "ref": "Inside Clank/Wall Jumping Technomite/T-Bolt"
+          },
+          {
+            "name": "Enter Planet",
+            "ref": "Inside Clank/Clank's Body/Enter Planet"
+          },
+          {
+            "name": "Defeat all Technomites",
+            "ref": "Inside Clank/Defeat all Technomites/Stand back son..."
+          },
+          {
+            "name": "Escape from Clank",
+            "ref": "Inside Clank/Escape from Clank/What happened?!"
+          },
+          {
+            "name": "Skill Point: Ratchet... Just Ratchet",
+            "ref": "Inside Clank/Skill Point: Ratchet... Just Ratchet/Beat the enemy segment using only the wrench."
+          },
+          {
+            "name": "Skill Point: Not the Shock of Me Now",
+            "ref": "Inside Clank/Skill Point: Not the Shock of Me Now/Don't get hit at all while inside Clank's head"
           }
         ]
       },
@@ -688,34 +686,6 @@
           }
         ],
         "sections": [
-          {
-            "name": "Enter Planet",
-            "ref": "Quodrona/Clone Factory/Enter Planet"
-          },
-          {
-            "name": "Find Otto Destruct",
-            "ref": "Quodrona/Otto/Find Otto Destruct"
-          },
-          {
-            "name": "Clone Wars (Fight the Ratchet Clones)",
-            "ref": "Quodrona/Otto/Clone Wars (Fight the Ratchet Clones)"
-          },
-          {
-            "name": "Skill Point: Elite Annihilation",
-            "ref": "Quodrona/Otto/SP: Elite Annihilation (Defeat 70 clones during the fight.)"
-          },
-          {
-            "name": "Runnnn from Otto",
-            "ref": "Quodrona/Otto/Runnnn from Otto"
-          },
-          {
-            "name": "Defeat Mecha Otto",
-            "ref": "Quodrona/Otto/Defeat Mecha Otto"
-          },
-          {
-            "name": "Defeat Otto Destruct",
-            "ref": "Quodrona/Otto/Defeat Otto Destruct"
-          },
           {
             "name": "Gadgetron Vendor: Laser Tracer - 85,000",
             "ref": "Quodrona/Gadgetron Vendor/Laser Tracer - 85,000"
@@ -741,17 +711,47 @@
             "ref": "Quodrona/Slim Cognito/Shock Rocket Lock On Mod - 5,000"
           },
           {
+            "name": "T-Bolt: Ratchet Clones and Dummies",
+            "ref": "Quodrona/Ratchet Clones and Dummies/T-Bolt"
+          },
+          {
+            "name": "Enter Planet",
+            "ref": "Quodrona/Clone Factory/Enter Planet"
+          },
+          {
+            "name": "Find Otto Destruct",
+            "ref": "Quodrona/Otto/Find Otto Destruct"
+          },
+          {
+            "name": "Clone Wars (Fight the Ratchet Clones)",
+            "ref": "Quodrona/Otto/Clone Wars (Fight the Ratchet Clones)"
+          },
+          {
+            "name": "Runnnn from Otto",
+            "ref": "Quodrona/Otto/Runnnn from Otto"
+          },
+          {
+            "name": "Defeat Mecha Otto",
+            "ref": "Quodrona/Otto/Defeat Mecha Otto"
+          },
+          {
+            "name": "Defeat Otto Destruct",
+            "ref": "Quodrona/Otto/Defeat Otto Destruct"
+          },
+          {
             "name": "Skill Point: Storm the Front",
             "ref": "Quodrona/Skill Point: Storm the Front/Complete the enemy portion of level 10 in less than 1:45."
           },
           {
-            "name": "T-Bolt: Ratchet Clones and Dummies",
-            "ref": "Quodrona/Ratchet Clones and Dummies/T-Bolt"
+            "name": "Skill Point: Elite Annihilation",
+            "ref": "Quodrona/Otto/SP: Elite Annihilation (Defeat 70 clones during the clone fight.)"
           }
         ]
       },
       {
         "name": "Wildfire",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -770,6 +770,8 @@
       },
       {
         "name": "Sludge Mk9",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -788,6 +790,8 @@
       },
       {
         "name": "Crystallix",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -806,6 +810,8 @@
       },
       {
         "name": "Electroshock",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -824,6 +830,8 @@
       },
       {
         "name": "Mega-Bomb",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -842,6 +850,8 @@
       },
       {
         "name": "Hyperborean",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn, NGPItemOn" ],
         "map_locations": [
           {
@@ -860,6 +870,8 @@
       },
       {
         "name": "Chameleon",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn, NGPItemOn" ],
         "map_locations": [
           {
@@ -878,6 +890,8 @@
       },
       {
         "name": "Fire-Bomb",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -896,6 +910,8 @@
       },
       {
         "name": "Shock Crystal",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -914,6 +930,8 @@
       },
       {
         "name": "Wildburst",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -932,6 +950,8 @@
       },
       {
         "name": "Triple Wave",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn" ],
         "map_locations": [
           {
@@ -950,6 +970,8 @@
       },
       {
         "name": "Ice II",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn, NGPItemOn" ],
         "map_locations": [
           {
@@ -968,6 +990,8 @@
       },
       {
         "name": "Stalker",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "visibility_rules": [ "ArmorSetsOn, NGPItemOn" ],
         "map_locations": [
           {
@@ -986,6 +1010,8 @@
       },
       {
         "name": "Lacerator Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1016,6 +1042,8 @@
       },
       {
         "name": "Acid Bomb Glove Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1046,6 +1074,8 @@
       },
       {
         "name": "Concussion Gun Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1076,6 +1106,8 @@
       },
       {
         "name": "Agents of Doom Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1106,6 +1138,8 @@
       },
       {
         "name": "Scorcher Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1136,6 +1170,8 @@
       },
       {
         "name": "Bee Mine Glove Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1166,6 +1202,8 @@
       },
       {
         "name": "Suck Cannon Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1196,6 +1234,8 @@
       },
       {
         "name": "Sniper Mine Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1226,6 +1266,8 @@
       },
       {
         "name": "Mootator Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1256,6 +1298,8 @@
       },
       {
         "name": "Shock Rocket Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1286,6 +1330,8 @@
       },
       {
         "name": "Static Barrier Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1316,6 +1362,8 @@
       },
       {
         "name": "Laser Tracer Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1346,6 +1394,8 @@
       },
       {
         "name": "RYNO Levels",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
         "map_locations": [
           {
             "map": "Galaxy",
@@ -1379,11 +1429,11 @@
   {
       "name": "Pokitaru",
       "access_rules": ["Pokitaru"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "Jowai Resort",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -1402,6 +1452,8 @@
           },
           {
               "name": "Fight some robots",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Complete Luna's Photoshoot",
@@ -1420,6 +1472,8 @@
           },
           {
               "name": "On Bridge",
+              "chest_unopened_img": "images/items/armor/FireChest.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Wildfire Chestplate",
@@ -1437,6 +1491,8 @@
           },
           {
               "name": "In the Skuttle Crab Cave",
+              "chest_unopened_img": "images/items/armor/FireGlove.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Wildfire Gloves",
@@ -1454,6 +1510,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Lacerator - 0",
@@ -1481,8 +1539,10 @@
                   }
               ]
           },
-          {
+          { 
               "name": "Skill Point: Train Faster",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
               "sections": [
                   {
@@ -1501,6 +1561,8 @@
           },
           {
               "name": "Skill Point: Don't Rock the Boat",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
               "sections": [
                   {
@@ -1519,6 +1581,8 @@
           },
           {
               "name": "Skill Point: Do Cows Get Crabby?",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
               "access_rules": [ "Moo" ],
               "sections": [
@@ -1538,6 +1602,8 @@
           },
           {
               "name": "Above Zipline",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -1555,6 +1621,8 @@
           },
           {
               "name": "Behind Hut",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -1575,11 +1643,11 @@
   {
       "name": "Ryllus",
       "access_rules": ["Ryllus"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "Vegeta Jungle",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -1598,6 +1666,8 @@
           },
           {
               "name": "Buzzing Cameras",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "CutscenesOn" ],
               "sections": [
                   {
@@ -1616,6 +1686,8 @@
           },
           {
               "name": "Receive Sprout-O-Matic",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Lemme have that water pistol lil' fella.",
@@ -1633,6 +1705,8 @@
           },
           {
               "name": "Investigate the Artifact",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
                   {
@@ -1652,6 +1726,8 @@
           },
           {
               "name": "Unlock the Temple",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
                   {
@@ -1671,6 +1747,8 @@
           },
           {
               "name": "Behind Breakable Rock",
+              "chest_unopened_img": "images/items/armor/SluBoot.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout"],
               "sections": [
                   {
@@ -1689,6 +1767,8 @@
           },
           {
               "name": "Before Temple Entrance",
+              "chest_unopened_img": "images/items/armor/FireHelmet.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
                   {
@@ -1707,6 +1787,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Agents of Doom - 25,000",
@@ -1724,6 +1806,8 @@
           },
           {
               "name": "Skill Point: Bury the Pygmies",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
@@ -1743,6 +1827,8 @@
           },
           {
               "name": "Skill Point: Lights, Camera, Action!",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
               "sections": [
                   {
@@ -1761,6 +1847,8 @@
           },
           {
               "name": "Skill Point: Ship It",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
@@ -1780,6 +1868,8 @@
           },
           {
               "name": "Down The Cliff",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -1797,6 +1887,8 @@
           },
           {
               "name": "After the Wall",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
                   {
@@ -1818,11 +1910,11 @@
   {
       "name": "Kalidon",
       "access_rules": ["Kalidon"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "Mechanoid Factory",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -1844,40 +1936,56 @@
               "sections": [
                   {
                       "name": "Explore the Planet",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "CutscenesOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Win the skyboard race (Complete Learner's Permit)",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Receive Shrink Ray",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   },
                   {
                       "name": "Learner's Challenge",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Speeding Ticket",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Tricky Air",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Master's Challenge",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "SP: Be A Cool Skyboarder (Win a race without boosting.)",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkySkillsOn" ],
                       "item_count": 1
                   }
@@ -1897,6 +2005,8 @@
               "sections": [
                   {
                       "name": "Wildfire Boots",
+              "chest_unopened_img": "images/items/armor/FireBoot.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   }
               ],
@@ -1911,6 +2021,8 @@
           },
           {
               "name": "Mundo Fight",
+              "chest_unopened_img": "images/items/armor/SluChest.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Shrink, Hypershot"],
               "sections": [
                   {
@@ -1929,6 +2041,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Scorcher - 20,000",
@@ -1946,6 +2060,8 @@
           },
           {
               "name": "Slim Cognito",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Lacerator Lock On Mod - 5,000",
@@ -1967,6 +2083,8 @@
           },
           {
               "name": "Skill Point: Explosive Ordnance Disposal",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
               "access_rules": ["Shrink, Hypershot"],
               "sections": [
@@ -1986,6 +2104,8 @@
           },
           {
               "name": "Skill Point: Super Lombax",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
               "access_rules": ["Shrink, Hypershot"],
               "sections": [
@@ -2005,6 +2125,8 @@
           },
           {
               "name": "Behind Ship",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -2022,6 +2144,8 @@
           },
           {
               "name": "Side of Mechanoid Factory",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Hypershot"],
               "sections": [
                   {
@@ -2040,6 +2164,8 @@
           },
           {
               "name": "Grav-Ramps",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Shrink, Hypershot"],
               "sections": [
                   {
@@ -2061,11 +2187,11 @@
   {
       "name": "Metalis",
       "access_rules": ["Metalis"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "Junkyard LXIV",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -2087,91 +2213,127 @@
               "sections": [
                   {
                       "name": "Survive Robot War III (Complete Buzzsaw Blitz)",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Buzzsaw Blitz",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
                       "item_count": 1
                   },
                   {
                       "name": "CHARGE!",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Electric Boogaloo",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Showdown",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Smasherbot's Revenge",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
                       "item_count": 1
                   },
                   {
                       "name": "Little League",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Varsity Bracket",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Collegiate Division",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Professional Level",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "The Uber Finals",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
                       "item_count": 1
                   },
                   {
                       "name": "Take Two For The Team",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Bridge The Gap",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Of Trapeze and Teleporters",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Brain Trip",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Night Impossible",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
                       "item_count": 1
                   },
                   {
                       "name": "SP: Shutout (Win Gadgebot Toss without letting others score.)",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankSkillsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "SP: Ultimate Gladiator (Complete all Clank arena challenges.)",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankSkillsOn" ],
                       "item_count": 1
                   }
@@ -2187,6 +2349,8 @@
           },
           {
               "name": "Behind the Polarized Door",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Polar, Hypershot"],
               "sections": [
                   {
@@ -2207,12 +2371,12 @@
   },
   {
       "name": "Dreamtime",
-      "access_rules": ["Wreckage"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
+      "access_rules": ["Wreckage, Sprout, Hypershot"],
       "children": [
           {
               "name": "???",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -2231,9 +2395,12 @@
           },
           {
               "name": "Clank finds sleeping Ratchet",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "There's still so much to do!",
+                      "visibility_rules": [ "CutscenesOn" ],
                       "item_count": 1
                   }
               ],
@@ -2252,15 +2419,21 @@
               "sections": [
                   {
                       "name": "Complete Dreamtime",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Crystallix Chestplate After Giant Clank Chase",
+              "chest_unopened_img": "images/items/armor/CryChest.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   },
                   {
                       "name": "SP: Friends Don't Hurt Friends (Get through Giant Clank hitless.)",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkillsOn" ],
                       "item_count": 1
                   }
@@ -2280,11 +2453,15 @@
               "sections": [
                   {
                       "name": "SP: Night Terrors (Defeat the final waves within 45 seconds.)",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkillsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "T-Bolt: Apparition of the Scuttle Crab",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   }
               ],
@@ -2299,6 +2476,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Suck Cannon - 30,000",
@@ -2316,6 +2495,8 @@
           },
           {
               "name": "Atop the Floating Hat",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
                   {
@@ -2334,6 +2515,8 @@
           },
           {
               "name": "To the left of Ratchet's Garage",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout, Hypershot"],
               "sections": [
                   {
@@ -2355,11 +2538,11 @@
   {
       "name": "Medical Outpost Omega",
       "access_rules": ["Wreckage"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "Surgical Factory",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout, Hypershot, Shrink"],
               "sections": [
                   {
@@ -2382,12 +2565,16 @@
               "sections": [
                   {
                       "name": "Escape from Facility Pt.1",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "CutscenesOn" ],
                       "access_rules": ["Sprout, Hypershot, Shrink"],
                       "item_count": 1
                   },
                   {
                       "name": "Crystallix Boots During Escape (Same as: Near Dreamtime)",
+              "chest_unopened_img": "images/items/armor/CryBoot.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   }
               ],
@@ -2406,6 +2593,8 @@
               "sections": [
                   {
                       "name": "We must leave NOW!",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   }
@@ -2424,6 +2613,8 @@
               "sections": [
                   {
                       "name": "Crystallix Boots",
+              "chest_unopened_img": "images/items/armor/CryBoot.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   }
               ],
@@ -2441,31 +2632,43 @@
               "sections": [
                   {
                       "name": "Rematch - Skyboard racers (Complete Interior Decorating)",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Interior Decorating",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Danger, High Voltage",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "The Vortex",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Vertigo",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "SP: Be An Awesome Skyboarder (Beat Vertigo in under 3:25.)",
+              "chest_unopened_img": "images/board.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkySkillsOn" ],
                       "item_count": 1
                   }
@@ -2481,6 +2684,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Bee Mine Glove - 50,000",
@@ -2502,6 +2707,8 @@
           },
           {
               "name": "Near the Entrance to Dreamtime",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -2519,6 +2726,8 @@
           },
           {
               "name": "After the Wall Jump (Same as: Near the Entrance to DreamTime)",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -2539,14 +2748,14 @@
   {
       "name": "Challax",
       "access_rules": ["Challax"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "Technomite City",
               "sections": [
                   {
                       "name": "Enter Planet",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "CutscenesOn" ],
                       "item_count": 1
                   }
@@ -2562,6 +2771,8 @@
           },
           {
               "name": "After Dropship fight",
+              "chest_unopened_img": "images/items/armor/EleHelmet.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Polar, Shrink, Sprout", "Dayni Moon"],
               "sections": [
                   {
@@ -2580,6 +2791,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Sniper Mine - 50,000",
@@ -2605,6 +2818,8 @@
           },
           {
               "name": "Slim Cognito",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Polar, Shrink"],
               "sections": [
                   {
@@ -2643,6 +2858,8 @@
           },
           {
               "name": "Skill Point: High Tech Weapons Master",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
               "access_rules": ["Polar, Shrink, Sprout"],
               "sections": [
@@ -2662,6 +2879,8 @@
           },
           {
               "name": "Beside The Ultra Mech Pad",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -2679,6 +2898,8 @@
           },
           {
               "name": "Hidden Room",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Polar, Shrink"],
               "sections": [
                   {
@@ -2697,6 +2918,8 @@
           },
           {
               "name": "Mimic Plant Lob",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Polar, Shrink, Sprout"],
               "sections": [
                   {
@@ -2718,11 +2941,11 @@
   {
       "name": "Dayni Moon",
       "access_rules": ["Dayni Moon"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "At the Beginning (Same as: After Dropship fight)",
+              "chest_unopened_img": "images/items/armor/EleHelmet.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Polar, Shrink, Sprout, Challax", "Dayni Moon"],
               "sections": [
                   {
@@ -2741,6 +2964,8 @@
           },
           {
               "name": "Before Luna Fight",
+              "chest_unopened_img": "images/items/armor/BombHelmet.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout"],
               "sections": [
                   {
@@ -2759,6 +2984,8 @@
           },
           {
               "name": "Luna",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Sprout"],
               "sections": [
                   {
@@ -2796,81 +3023,113 @@
               "sections": [
                   {
                       "name": "Welcome to Dayni",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Round Up!",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Variety Is Shocking",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Tom Sawyer",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Smasherbot Returns!",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "HAY-re We Are!",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Tri-bomb Tournament",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "A-rooouund the Bend",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "The Thin Bouncy Line",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "The Ultimate Showdown",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
                       "item_count": 1
                   },
                   {
                       "name": "Two's A Crowd",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Reverse Into Victory",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Emergency Bridge",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Leap Of Faith",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Infinite Improbability",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
                       "item_count": 1
                   },
                   {
                       "name": "SP: Ultimate Gladiator (Complete all Clank arena challenges.)",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "ClankSkillsOn" ],
                       "item_count": 1
                   }
@@ -2886,6 +3145,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Shock Rocket - 55,000",
@@ -2907,6 +3168,8 @@
           },
           {
               "name": "Skill Point: Bouncy, Bouncy, Bouncy",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
               "access_rules": ["Sprout"],
               "sections": [
@@ -2926,6 +3189,8 @@
           },
           {
               "name": "Skill Point: Wool Protest",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
               "access_rules": ["Sprout"],
               "sections": [
@@ -2945,6 +3210,8 @@
           },
           {
               "name": "Planting at the Barnyard",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -2962,6 +3229,8 @@
           },
           {
               "name": "Bounce on the Blue Mimic",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Shrink, Sprout"],
               "sections": [
                   {
@@ -2982,12 +3251,13 @@
   },
   {
       "name": "Inside Clank",
-      "access_rules": ["Dayni, Sprout"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
+      "access_rules": ["Dayni Moon"],
       "children": [
           {
               "name": "Clank's Body",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Dayni Moon, Sprout"],
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -3006,7 +3276,9 @@
           },
           {
               "name": "Defeat all Technomites",
-              "access_rules": ["Dayni, Sprout, Shrink, Polar"],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar"],
               "sections": [
                   {
                       "name": "Stand back son...",
@@ -3025,10 +3297,12 @@
           },
           {
               "name": "Clank's Mouth",
-              "access_rules": ["Dayni, Sprout, Shrink, Polar, Hypershot"],
+              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar, Hypershot"],
               "sections": [
                   {
                       "name": "Mega Bomb Chestplate",
+              "chest_unopened_img": "images/items/armor/BombChest.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   }
               ],
@@ -3043,7 +3317,9 @@
           },
           {
               "name": "Escape from Clank",
-              "access_rules": ["Dayni, Sprout, Shrink, Polar, Hypershot"],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar, Hypershot"],
               "sections": [
                   {
                       "name": "What happened?!",
@@ -3062,6 +3338,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Static Barrier - 65,000",
@@ -3079,8 +3357,10 @@
           },
           {
               "name": "Skill Point: Ratchet... Just Ratchet",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
-              "access_rules": ["Dayni, Sprout, Shrink, Polar"],
+              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar"],
               "sections": [
                   {
                       "name": "Beat the enemy segment using only the wrench.",
@@ -3098,8 +3378,10 @@
           },
           {
               "name": "Skill Point: Not the Shock of Me Now",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
-              "access_rules": ["Dayni, Sprout, Shrink, Polar, Hypershot"],
+              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar, Hypershot"],
               "sections": [
                   {
                       "name": "Don't get hit at all while inside Clank's head",
@@ -3117,6 +3399,9 @@
           },
           {
               "name": "Walk Behind the Ladder",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Dayni Moon, Sprout"],
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -3134,6 +3419,9 @@
           },
           {
               "name": "Wall Jumping Technomite",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Dayni Moon, Sprout"],
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -3154,11 +3442,11 @@
   {
       "name": "Quodrona",
       "access_rules": ["Quodrona"],
-      "chest_unopened_img": "images/Question.png",
-      "chest_opened_img": "images/complete.png",
       "children": [
           {
               "name": "Clone Factory",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -3181,31 +3469,43 @@
               "sections": [
                   {
                       "name": "Find Otto Destruct",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Clone Wars (Fight the Ratchet Clones)",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "CutscenesOn" ],
                       "item_count": 1
                   },
                   {
-                      "name": "SP: Elite Annihilation (Defeat 70 clones during the fight.)",
+                      "name": "SP: Elite Annihilation (Defeat 70 clones during the clone fight.)",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "SkillsOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Runnnn from Otto",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "CutscenesOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Defeat Mecha Otto",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "CutscenesOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Defeat Otto Destruct",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   }
               ],
@@ -3220,6 +3520,8 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Laser Tracer - 85,000",
@@ -3237,6 +3539,8 @@
           },
           {
               "name": "Slim Cognito",
+              "chest_unopened_img": "images/crate.png",
+              "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Agents of Doom Launcher Mod - 20,000",
@@ -3270,6 +3574,8 @@
           },
           {
               "name": "Skill Point: Storm the Front",
+              "chest_unopened_img": "images/skill.png",
+              "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
               "access_rules": ["Shrink, Hypershot"],
               "sections": [
@@ -3289,6 +3595,8 @@
           },
           {
               "name": "Ratchet Clones and Dummies",
+              "chest_unopened_img": "images/bolt.png",
+              "chest_opened_img": "images/complete.png",
               "access_rules": ["Shrink, Hypershot"],
               "sections": [
                   {

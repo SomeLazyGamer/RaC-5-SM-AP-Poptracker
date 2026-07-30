@@ -181,7 +181,7 @@ LOCATION_MAPPING = {
 	[77704018] = { {"@Dayni Moon/Skill Point: Bouncy, Bouncy, Bouncy/High-jump on a bouncy plant 10 times in a row."} },
 	[77704019] = { {"@Inside Clank/Skill Point: Not the Shock of Me Now/Don't get hit at all while inside Clank's head"} },
 	[77704020] = { {"@Inside Clank/Skill Point: Ratchet... Just Ratchet/Beat the enemy segment using only the wrench."} },
-	[77704021] = { {"@Quodrona/Otto/SP: Elite Annihilation (Defeat 70 clones during the fight.)"} },
+	[77704021] = { {"@Quodrona/Otto/SP: Elite Annihilation (Defeat 70 clones clone fight.)"} },
 	[77704022] = { {"@Quodrona/Skill Point: Storm the Front/Complete the enemy portion of level 10 in less than 1:45."} },
 	--Weapon Levels
 	[77705001] = { {"@Galaxy/Lacerator Levels/Lacerator: V2"} },
