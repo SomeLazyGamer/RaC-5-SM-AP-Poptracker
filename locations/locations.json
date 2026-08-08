@@ -2322,7 +2322,7 @@
                       "name": "Survive Robot War III (Complete Buzzsaw Blitz)",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "MissionsOn" ],
+                      "visibility_rules": [ "ClankChallOn", "MissionsOn" ],
                       "item_count": 1
                   },
                   {
