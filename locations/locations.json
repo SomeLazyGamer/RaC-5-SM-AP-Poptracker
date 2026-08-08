@@ -54,6 +54,10 @@
             "ref": "Pokitaru/Fight some robots/Complete Luna's Photoshoot"
           },
           {
+            "name": "Rescue the girl",
+            "ref": "Pokitaru/Rescue the Girl/There Are. No. TECHNOMITES."
+          },
+          {
             "name": "Skill Point: Train Faster",
             "ref": "Pokitaru/Skill Point: Train Faster/Complete the training portion of Pokitaru in less than 1:32."
           },
@@ -168,6 +172,10 @@
             "ref": "Kalidon/Mundo Fight/Sludge Mk9 Chestplate"
           },
           {
+            "name": "Search the factory",
+            "ref": "Kalidon/Search the Factory/That's very good Luna!"
+          },
+          {
             "name": "T-Bolt: Behind Ship",
             "ref": "Kalidon/Behind Ship/T-Bolt"
           },
@@ -239,6 +247,18 @@
           {
             "name": "Enter Planet",
             "ref": "Metalis/Junkyard LXIV/Enter Planet"
+          },
+          {
+            "name": "Electroshock Gloves from Giant Clank",
+            "ref": "Metalis/Giant Clank/Electroshock Gloves"
+          },
+          {
+            "name": "Escape the planet (Giant Clank)",
+            "ref": "Metalis/Giant Clank/Escape the Planet"
+          },
+          {
+            "name": "Skill Point: Terror of the Skies",
+            "ref": "Metalis/Giant Clank/SP: Terror of the Skies (Get over 950 Points)"
           },
           {
             "name": "Survive Robot War III (Complete Buzzsaw Blitz)",
@@ -498,6 +518,22 @@
           {
             "name": "Enter Planet",
             "ref": "Challax/Technomite City/Enter Planet"
+          },
+          {
+            "name": "Explore the miniature city",
+            "ref": "Challax/Explore the Miniature City/It appears we'll have to catch her first."
+          },
+          {
+            "name": "Electroshock Chestplate from Giant Clank",
+            "ref": "Challax/Giant Clank/Electroshock Chestplate"
+          },
+          {
+            "name": "Destroy the Space Fortress (Giant Clank)",
+            "ref": "Challax/Giant Clank/Destroy the space fortress"
+          },
+          {
+            "name": "Skill Point: No More Varmints!",
+            "ref": "Challax/Giant Clank/SP: No More Varmints! (Get over 1900 Points)"
           },
           {
             "name": "Skill Point: High Tech Weapons Master",
@@ -1509,6 +1545,26 @@
               ]
           },
           {
+              "name": "Rescue the Girl",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "There Are. No. TECHNOMITES.",
+                      "visibility_rules": [ "MissionsOn" ],
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Pokitaru",
+                      "x": "65",
+                      "y": "137",
+                      "size": 14
+                  }
+              ]
+          },
+          {
               "name": "Gadgetron Vendor",
               "chest_unopened_img": "images/crate.png",
               "chest_opened_img": "images/complete.png",
@@ -2034,7 +2090,28 @@
                   {
                       "map": "Kalidon",
                       "x": "153",
-                      "y": "137",
+                      "y": "150",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Search the Factory",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink, Hypershot"],
+              "sections": [
+                  {
+                      "name": "That's very good Luna!",
+                      "visibility_rules": [ "MissionsOn" ],
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Kalidon",
+                      "x": "153",
+                      "y": "130",
                       "size": 14
                   }
               ]
@@ -2204,6 +2281,36 @@
                       "map": "Metalis",
                       "x": "193",
                       "y": "294",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Giant Clank",
+              "visibility_rules": [ "GiantClankOn" ],
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "Electroshock Gloves",
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Escape the Planet",
+                      "visibility_rules": [ "MissionsOn" ],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "SP: Terror of the Skies (Get over 950 Points)",
+                      "visibility_rules": [ "SkillsOn" ],
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Metalis",
+                      "x": "193",
+                      "y": "332",
                       "size": 14
                   }
               ]
@@ -2784,7 +2891,58 @@
                   {
                       "map": "Challax Dropship",
                       "x": "495",
-                      "y": "210",
+                      "y": "195",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Explore the Miniature City",
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Polar, Shrink, Sprout", "Dayni Moon"],
+              "sections": [
+                  {
+                      "name": "It appears we'll have to catch her first.",
+                      "visibility_rules": [ "MissionsOn" ],
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Challax Dropship",
+                      "x": "495",
+                      "y": "225",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Giant Clank",
+              "chest_unopened_img": "images/clank.png",
+              "chest_opened_img": "images/complete.png",
+              "visibility_rules": [ "GiantClankOn" ],
+              "sections": [
+                  {
+                      "name": "Electroshock Chestplate",
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Destroy the Space Fortress ",
+                      "visibility_rules": [ "MissionsOn" ],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "SP: No More Varmints! (Get over 1900 Points)",
+                      "visibility_rules": [ "SkillsOn" ],
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Challax",
+                      "x": "436",
+                      "y": "417",
                       "size": 14
                   }
               ]
@@ -3212,6 +3370,7 @@
               "name": "Planting at the Barnyard",
               "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
+              "access_rules": ["Sprout"],
               "sections": [
                   {
                       "name": "T-Bolt",

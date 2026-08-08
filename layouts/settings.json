@@ -13,30 +13,33 @@
         "rows": [
           [
             "ProgWeap",
-            "Skills"
+            "GiantClank"
           ],
           [
             "ProgMods",
-            "ClankSkills"
+            "Skills"
           ],
           [
             "ProgArmor",
-            "SkySkills"
+            "ClankSkills"
           ],
           [
             "Missions",
-            "ArmorSets"
+            "SkySkills"
           ],
           [
             "Cutscenes",
-            "WeapLVL"
+            "ArmorSets"
           ],
           [
             "ClankChall",
-            "NGPItem"
+            "WeapLVL"
           ],
           [
             "SkyChall",
+            "NGPItem"
+          ],
+          [
             "AutoTab"
           ]
         ]

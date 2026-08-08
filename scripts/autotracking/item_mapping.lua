@@ -73,8 +73,7 @@ ITEM_MAPPING = {
 	[77700107] = { { "Map" } },
 	[77700108] = { { "BoxBreak" } },
 	-- Planets
-	[77700501] = { { "Pokitaru" } },
-	[77700502] = { { "Ryllus" } },
+	[77700501] = { { "Pokitaru" }, { "Ryllus" } },
 	[77700503] = { { "Kalidon" } },
 	[77700504] = { { "Metalis" } },
 	[77700505] = { { "Dreamtime" }, { "Station" }, { "Wreckage" } },

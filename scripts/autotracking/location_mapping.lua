@@ -37,6 +37,8 @@ LOCATION_MAPPING = {
 	[77701109] = { {"@Challax/After Dropship fight/Electroshock Helmet"}, {"@Dayni Moon/At the Beginning (Same as: After Dropship fight)/Electroshock Helmet"} },
 	[77701110] = { {"@Dayni Moon/Before Luna Fight/Mega Bomb Helmet"} },
 	[77701111] = { {"@Inside Clank/Clank's Mouth/Mega Bomb Chestplate"} },
+	[77701112] = { {"@Metalis/Giant Clank/Electroshock Gloves"} },
+	[77701113] = { {"@Challax/Giant Clank/Electroshock Chestplate"} },
 	--Gadget Pickups
 	[77701401] = { {"@Ryllus/Receive Sprout-O-Matic/Lemme have that water pistol lil' fella."} },
 	[77701407] = { {"@Kalidon/Skyboarder/Receive Shrink Ray"} },
@@ -160,6 +162,11 @@ LOCATION_MAPPING = {
 	[77703029] = { {"@Inside Clank/Clank's Body/Enter Planet"} },
 	[77703030] = { {"@Quodrona/Clone Factory/Enter Planet"} },
 	[77703031] = { {"@Dreamtime/Clank finds sleeping Ratchet/There's still so much to do!"} },
+	[77703032] = { {"@Metalis/Giant Clank/Escape the Planet"} },
+	[77703033] = { {"@Challax/Giant Clank/Destroy the space fortress"} },
+	[77703034] = { {"@Pokitaru/Rescue the Girl/There Are. No. TECHNOMITES."} },
+	[77703035] = { {"@Kalidon/Search the Factory/That's very good Luna!"} },
+	[77703036] = { {"@Challax/Explore the Miniature City/It appears we'll have to catch her first."} },
 	--Skill Points
 	[77704001] = { {"@Pokitaru/Skill Point: Train Faster/Complete the training portion of Pokitaru in less than 1:32."} },
 	[77704002] = { {"@Pokitaru/Skill Point: Don't Rock the Boat/Complete the boat challenge of Pokitaru without taking a single hit."} },
@@ -183,6 +190,8 @@ LOCATION_MAPPING = {
 	[77704020] = { {"@Inside Clank/Skill Point: Ratchet... Just Ratchet/Beat the enemy segment using only the wrench."} },
 	[77704021] = { {"@Quodrona/Otto/SP: Elite Annihilation (Defeat 70 clones clone fight.)"} },
 	[77704022] = { {"@Quodrona/Skill Point: Storm the Front/Complete the enemy portion of level 10 in less than 1:45."} },
+	[77704023] = { {"@Metalis/Giant Clank/SP: Terror of the Skies (Get over 950 Points)"} },
+	[77704024] = { {"@Challax/Giant Clank/SP: No More Varmints! (Get over 1900 Points)"} },
 	--Weapon Levels
 	[77705001] = { {"@Galaxy/Lacerator Levels/Lacerator: V2"} },
 	[77705002] = { {"@Galaxy/Lacerator Levels/Lacerator: V3"} },

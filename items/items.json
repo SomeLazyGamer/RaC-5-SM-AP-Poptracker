@@ -1102,6 +1102,24 @@
     ]
   },
   {
+    "name": "Giant Clank",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/GiantClankOff.png",
+          "name": "Giant Clank - Off",
+          "codes": "GiantClank,GiantClankOff"
+      },
+      {
+        "img": "images/items/settings/GiantClankOn.png",
+        "name": "Giant Clank - On",
+        "codes": "GiantClank,GiantClankOn"
+      }
+    ]
+  },
+  {
     "name": "Skill Points",
     "type": "progressive",
     "loop": false,
