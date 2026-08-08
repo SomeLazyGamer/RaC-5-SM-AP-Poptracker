@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "1.2.1",
+			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.2.1/RaC5_Tracker_SLG_1.2.1.zip",
+			"sha256": "5eb6450f311779286e98b191811d2632adc86124b9f2afdf43234dbb9a9bf375",
+			"changelog": ["Robot War III Fix"]
+		},
+		{
 			"package_version": "1.2.0",
 			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.2.0/RaC5_Tracker_SLG_1.2.0.zip",
 			"sha256": "2a42ee5bc552ed1eb11d884fac119376518bba4f38a4baa7ef30986d4ab99816",
