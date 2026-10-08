@@ -22,7 +22,8 @@
                 "Agents",
                 "Scorcher",
                 "Hypershot",
-                "Sprout"
+                "Sprout",
+                "Heli"
               ],
               [
                 "Bee",
@@ -31,7 +32,8 @@
                 "Moo",
                 "Shock",
                 "Polar",
-                "Shrink"
+                "Shrink",
+                "ProgNG"
               ],
               [
                 "Static",
@@ -40,7 +42,8 @@
                 "BoltGrab",
                 "BoxBreak",
                 "Map",
-                "PDA"
+                "PDA",
+                "UniArmor"
               ]
             ]
           }
@@ -71,7 +74,8 @@
                 "Agents",
                 "Scorcher",
                 "Hypershot",
-                "Sprout"
+                "Sprout",
+                "Heli"
               ],
               [
                 "Bee",
@@ -80,7 +84,8 @@
                 "Moo",
                 "Shock",
                 "Polar",
-                "Shrink"
+                "Shrink",
+                "ProgNG"
               ],
               [
                 "Static",
@@ -89,7 +94,8 @@
                 "BoltGrab",
                 "BoxBreak",
                 "Map",
-                "PDA"
+                "PDA",
+                "UniArmor"
               ]
             ]
           }

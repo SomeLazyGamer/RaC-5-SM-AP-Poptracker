@@ -2,7 +2,7 @@
   {
     "name": "Lacerator",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -12,7 +12,7 @@
   {
     "name": "Acid Bomb Glove",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -22,7 +22,7 @@
   {
     "name": "Concussion Gun",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -32,7 +32,7 @@
   {
     "name": "Agents of Doom",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -42,7 +42,7 @@
   {
     "name": "Scorcher",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -52,7 +52,7 @@
   {
     "name": "Suck Cannon",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -62,7 +62,7 @@
   {
     "name": "Bee Mine Glove",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -72,7 +72,7 @@
   {
     "name": "Sniper Mine",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -82,7 +82,7 @@
   {
     "name": "Shock Rocket",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -92,7 +92,7 @@
   {
     "name": "Mootator",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -102,7 +102,7 @@
   {
     "name": "Static Barrier",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -112,7 +112,7 @@
   {
     "name": "Laser",
     "type": "consumable",
-    "max_quantity": 4,
+    "max_quantity": 8,
     "increment": 1,
      "decrement": 1,
     "initial_quantity": 0,
@@ -176,6 +176,26 @@
     "type": "toggle",
     "img": "images/items/gadget/Map.png",
     "codes": "Map"
+  },
+  {
+    "name": "Clank Pack",
+    "type": "toggle",
+    "img": "images/items/gadget/clank.png",
+    "codes": "Heli"
+  },
+  {
+    "name": "Progressive Challenge Mode",
+    "type": "progressive",
+    "stages": [
+      {
+    "codes": "ProgNG,ProgNG1",
+    "img": "images/items/gadget/R1.png"
+      },
+      {
+    "codes": "ProgNG,ProgNG2",
+    "img": "images/items/gadget/R2.png"
+      }
+    ]
   },
   {
     "name": "Pokitaru",
@@ -244,31 +264,48 @@
     "codes": "Quodrona"
   },
   {
-    "name": "Wildfire Helmet",
-    "type": "toggle",
-    "img": "images/items/armor/FireHelmet.png",
-    "codes": "FireHelmet"
+    "name": "Progressive Armor",
+    "type": "progressive",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "increment": 1,
+    "max_quantity": 28,
+    "codes": "UniArmor"
   },
   {
-    "name": "Wildfire Body Armor",
+    "name": "Wildfire Helmet",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-    "img": "images/items/armor/FireChest.png",
+    "img": "images/items/armor/FireHelmet.png",
         "img_mods": "@disabled"
       },
       {
-    "codes": "FireChest",
-    "img": "images/items/armor/FireChest.png"
+    "img": "images/items/armor/FireHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "FireHelmet",
+    "img": "images/items/armor/FireHelmet.png"
       }
     ]
+  },
+  {
+    "name": "Wildfire Body Armor",
+    "type": "toggle",
+    "img": "images/items/armor/FireChest.png",
+    "codes": "FireChest"
   },
   {
     "name": "Wildfire Gloves",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/FireGlove.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/FireGlove.png",
         "img_mods": "@disabled"
@@ -301,6 +338,10 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/armor/FireBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
     "codes": "FireBoot",
     "img": "images/items/armor/FireBoot.png"
       }
@@ -308,15 +349,60 @@
   },
   {
     "name": "Sludge Mk. 9 Helmet",
-    "type": "toggle",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
     "img": "images/items/armor/SluHelmet.png",
-    "codes": "SluHelmet"
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "SluHelmet",
+    "img": "images/items/armor/SluHelmet.png"
+      }
+    ]
   },
   {
     "name": "Sludge Mk. 9 Body Armor",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/SluChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluChest.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/SluChest.png",
         "img_mods": "@disabled"
@@ -332,6 +418,26 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/SluGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluGlove.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/SluGlove.png",
         "img_mods": "@disabled"
@@ -364,6 +470,26 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/SluBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
     "codes": "SluBoot",
     "img": "images/items/armor/SluBoot.png"
       }
@@ -371,15 +497,92 @@
   },
   {
     "name": "Crystallix Helmet",
-    "type": "toggle",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
     "img": "images/items/armor/CryHelmet.png",
-    "codes": "CryHelmet"
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "CryHelmet",
+    "img": "images/items/armor/CryHelmet.png"
+      }
+    ]
   },
   {
     "name": "Crystallix Body Armor",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryChest.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/CryChest.png",
         "img_mods": "@disabled"
@@ -395,6 +598,42 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryGlove.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/CryGlove.png",
         "img_mods": "@disabled"
@@ -427,6 +666,42 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/CryBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
     "codes": "CryBoot",
     "img": "images/items/armor/CryBoot.png"
       }
@@ -434,15 +709,124 @@
   },
   {
     "name": "Electroshock Helmet",
-    "type": "toggle",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
     "img": "images/items/armor/EleHelmet.png",
-    "codes": "EleHelmet"
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "EleHelmet",
+    "img": "images/items/armor/EleHelmet.png"
+      }
+    ]
   },
   {
     "name": "Electroshock Body Armor",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleChest.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/EleChest.png",
         "img_mods": "@disabled"
@@ -458,6 +842,58 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleGlove.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/EleGlove.png",
         "img_mods": "@disabled"
@@ -490,6 +926,58 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/EleBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
     "codes": "EleBoot",
     "img": "images/items/armor/EleBoot.png"
       }
@@ -497,15 +985,156 @@
   },
   {
     "name": "Mega-Bomb Helmet",
-    "type": "toggle",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
     "img": "images/items/armor/BombHelmet.png",
-    "codes": "BombHelmet"
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "BombHelmet",
+    "img": "images/items/armor/BombHelmet.png"
+      }
+    ]
   },
   {
     "name": "Mega-Bomb Body Armor",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombChest.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/BombChest.png",
         "img_mods": "@disabled"
@@ -521,6 +1150,74 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombGlove.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/BombGlove.png",
         "img_mods": "@disabled"
@@ -553,6 +1250,74 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/BombBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
     "codes": "BombBoot",
     "img": "images/items/armor/BombBoot.png"
       }
@@ -560,15 +1325,188 @@
   },
   {
     "name": "Hyperborean Helmet",
-    "type": "toggle",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
     "img": "images/items/armor/HypHelmet.png",
-    "codes": "HypHelmet"
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "HypHelmet",
+    "img": "images/items/armor/HypHelmet.png"
+      }
+    ]
   },
   {
     "name": "Hyperborean Body Armor",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypChest.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/HypChest.png",
         "img_mods": "@disabled"
@@ -584,6 +1522,90 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypGlove.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/HypGlove.png",
         "img_mods": "@disabled"
@@ -616,6 +1638,90 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/HypBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
     "codes": "HypBoot",
     "img": "images/items/armor/HypBoot.png"
       }
@@ -623,15 +1729,220 @@
   },
   {
     "name": "Chameleon Helmet",
-    "type": "toggle",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
     "img": "images/items/armor/ChaHelmet.png",
-    "codes": "ChaHelmet"
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaHelmet.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "ChaHelmet",
+    "img": "images/items/armor/ChaHelmet.png"
+      }
+    ]
   },
   {
     "name": "Chameleon Body Armor",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaChest.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/ChaChest.png",
         "img_mods": "@disabled"
@@ -656,6 +1967,106 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaGlove.png",
+        "img_mods": "@disabled"
+      },
+      {
     "codes": "ChaGlove",
     "img": "images/items/armor/ChaGlove.png"
       }
@@ -666,6 +2077,106 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/armor/ChaBoot.png",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/armor/ChaBoot.png",
         "img_mods": "@disabled"
@@ -701,6 +2212,11 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/mods/LacMod2.png",
+    "codes": "LacMod2",
+        "img_mods": "@disabled"
+      },
+      {
     "img": "images/items/mods/LacMod2.png"
       }
     ]
@@ -716,6 +2232,11 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/mods/AcidMod2.png",
+    "codes": "AcidMod2",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/mods/AcidMod2.png",
     "codes": "AcidMod2",
@@ -743,6 +2264,11 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/mods/ConMod2.png",
+    "codes": "ConMod2",
+        "img_mods": "@disabled"
+      },
+      {
     "img": "images/items/mods/ConMod2.png"
       }
     ]
@@ -752,6 +2278,11 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/mods/ConMod3.png",
+    "codes": "ConMod3",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/mods/ConMod3.png",
     "codes": "ConMod3",
@@ -783,6 +2314,11 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/mods/AgentsMod2.png",
+    "codes": "AgentsMod2",
+        "img_mods": "@disabled"
+      },
+      {
     "img": "images/items/mods/AgentsMod2.png"
       }
     ]
@@ -798,6 +2334,11 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/mods/ScorchMod2.png",
+    "codes": "ScorchMod2",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/mods/ScorchMod2.png",
     "codes": "ScorchMod2",
@@ -825,6 +2366,11 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/mods/BeeMod2.png",
+    "codes": "BeeMod2",
+        "img_mods": "@disabled"
+      },
+      {
     "img": "images/items/mods/BeeMod2.png"
       }
     ]
@@ -840,6 +2386,11 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/mods/SniperMod2.png",
+    "codes": "SniperMod2",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/mods/SniperMod2.png",
     "codes": "SniperMod2",
@@ -867,6 +2418,11 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/mods/ShockMod2.png",
+    "codes": "ShockMod2",
+        "img_mods": "@disabled"
+      },
+      {
     "img": "images/items/mods/ShockMod2.png"
       }
     ]
@@ -879,6 +2435,10 @@
       {
     "img": "images/items/mods/ShockMod3.png",
     "codes": "ShockMod3",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/mods/ShockMod3.png",
         "img_mods": "@disabled"
       },
       {
@@ -907,6 +2467,11 @@
         "img_mods": "@disabled"
       },
       {
+    "img": "images/items/mods/StaticMod2.png",
+    "codes": "StaticMod2",
+        "img_mods": "@disabled"
+      },
+      {
     "img": "images/items/mods/StaticMod2.png"
       }
     ]
@@ -922,6 +2487,11 @@
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
+      {
+    "img": "images/items/mods/LaserMod2.png",
+    "codes": "LaserMod2",
+        "img_mods": "@disabled"
+      },
       {
     "img": "images/items/mods/LaserMod2.png",
     "codes": "LaserMod2",
@@ -967,6 +2537,12 @@
         "codes": "Cutscenes,CutscenesOn"
       }
     ]
+  },
+  {
+    "name": "Suck Cannon: Bounce Mod",
+    "type": "toggle",
+    "img": "images/items/mods/SuckMod.png",
+    "codes": "SuckMod1"
   },
   {
     "name": "Progressive Weapons",
@@ -1021,6 +2597,11 @@
         "img": "images/items/settings/ProgArmorOn.png",
         "name": "Progressive Armor - On",
         "codes": "ProgArmor,ProgArmorOn"
+      },
+      {
+        "img": "images/items/settings/ProgArmorUni.png",
+        "name": "Progressive Armor - Unified",
+        "codes": "ProgArmor,ProgArmorUni"
       }
     ]
   },
@@ -1120,6 +2701,140 @@
     ]
   },
   {
+    "name": "Shrink Ray Options",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ShrinkVan.png",
+          "name": "Shrink Ray Options - Off",
+          "inherit_codes": false,
+          "codes": "ShrinkOp,ShrinkVan"
+      },
+      {
+        "img": "images/items/settings/ShrinkLoc.png",
+        "name": "Shrink Ray Options - Locations",
+          "inherit_codes": false,
+        "codes": "ShrinkOp,ShrinkLoc"
+      },
+      {
+        "img": "images/items/settings/ShrinkSkip.png",
+        "name": "Shrink Ray Options - Skips",
+          "inherit_codes": false,
+        "codes": "ShrinkOp,ShrinkSkip"
+      }
+    ]
+  },
+  {
+    "name": "Challenge Mode",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/NGPOff.png",
+          "name": "Challenge Mode - Off",
+          "codes": "NGP,NGPOff"
+      },
+      {
+        "img": "images/items/settings/NGP1.png",
+        "name": "Challenge Mode - R:1",
+        "codes": "NGP,NGP1"
+      },
+      {
+        "img": "images/items/settings/NGP2.png",
+        "name": "Challenge Mode - R:2",
+        "codes": "NGP,NGP2"
+      }
+    ]
+  },
+  {
+    "name": "Progressive NG+",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ProgChallOff.png",
+          "name": "Progressive Challenge Mode - Off",
+          "codes": "ProgChall,ProgChallOff"
+      },
+      {
+        "img": "images/items/settings/ProgChallOn.png",
+        "name": "Progressive Challenge Mode - On",
+        "codes": "ProgChall,ProgChallOn",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Clank Pack Shuffle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/PackOff.png",
+          "name": "Clank Pack - Off",
+          "codes": "ClankPack,ClankPackOff"
+      },
+      {
+        "img": "images/items/settings/PackOn.png",
+        "name": "Clank Pack - On",
+        "codes": "ClankPack,ClankPackOn",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Nanotech Total",
+    "type": "consumable",
+    "initial_quantity": 5,
+    "min_quantity": 5,
+    "increment": 1,
+    "max_quantity": 75,
+    "codes": "NanoTotal"
+  },
+  {
+    "name": "Nanotech Levels",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/NanoOff.png",
+          "name": "Nanotech Levels - Off",
+          "codes": "Nano,NanoOff",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/Nano.png",
+          "name": "Nanotech Levels - All On",
+          "codes": "Nano,NanoAll",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/Nano5.png",
+          "name": "Nanotech Levels - Every 5",
+          "codes": "Nano,Nano5",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/Nano10.png",
+          "name": "Nanotech Levels - Every 10",
+          "codes": "Nano,Nano10",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/Nano25.png",
+          "name": "Nanotech Levels - Every 25",
+          "codes": "Nano,Nano25",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
     "name": "Skill Points",
     "type": "progressive",
     "loop": false,
@@ -1187,17 +2902,274 @@
       {
           "img": "images/items/settings/WeapLVLOff.png",
           "name": "Weapon Level Checks - Off",
+          "inherit_codes": false,
           "codes": "WeapLVL,WeapLVLOff"
       },
       {
         "img": "images/items/settings/WeapLVLMax.png",
-        "name": "Weapon Level Checks - Max Level",
+        "name": "Weapon Level Checks - V4 Only",
+          "inherit_codes": false,
         "codes": "WeapLVL,WeapLVLMax"
       },
       {
+        "img": "images/items/settings/WeapLVLMaxNG.png",
+        "name": "Weapon Level Checks - V8 Only",
+          "inherit_codes": false,
+        "codes": "WeapLVL,WeapLVLMaxNG"
+      },
+      {
+        "img": "images/items/settings/WeapLVL48.png",
+        "name": "Weapon Level Checks - V4 & V8",
+          "inherit_codes": false,
+        "codes": "WeapLVL,WeapLVL48"
+      },
+      {
         "img": "images/items/settings/WeapLVLOn.png",
-        "name": "Weapon Level Checks - On",
+        "name": "Weapon Level Checks - All On",
+          "inherit_codes": false,
         "codes": "WeapLVL,WeapLVLOn"
+      }
+    ]
+  },
+  {
+    "name": "Nanotech XP Multiplier",
+    "type": "consumable",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "increment": 1,
+    "max_quantity": 16,
+    "codes": "NanoXP"
+  },
+  {
+    "name": "Weapon XP Multiplier",
+    "type": "consumable",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "increment": 1,
+    "max_quantity": 16,
+    "codes": "WeapXP"
+  },
+  {
+    "name": "Gadgetbot Toss",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Toss,TossOff"
+      },
+      {
+        "codes": "Toss,TossOn"
+      }
+    ]
+  },
+  {
+    "name": "Demolition Derby",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Derby,DerbyOff"
+      },
+      {
+        "codes": "Derby,DerbyOn"
+      }
+    ]
+  },
+  {
+    "name": "Gadgebots",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Gadge,GadgeOff"
+      },
+      {
+        "codes": "Gadge,GadgeOn"
+      }
+    ]
+  },
+  {
+    "name": "Lacerator Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "LacTog,LacTogOff"
+      },
+      {
+        "codes": "LacTog,LacTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Acid Bomb Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "AcidTog,AcidTogOff"
+      },
+      {
+        "codes": "AcidTog,AcidTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Concussion Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "ConTog,ConTogOff"
+      },
+      {
+        "codes": "ConTog,ConTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Agents Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "AgentsTog,AgentsTogOff"
+      },
+      {
+        "codes": "AgentsTog,AgentsTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Scorcher Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "ScorchTog,ScorchTogOff"
+      },
+      {
+        "codes": "ScorchTog,ScorchTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Suck Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "SuckTog,SuckTogOff"
+      },
+      {
+        "codes": "SuckTog,SuckTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Bee Mine Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "BeeTog,BeeTogOff"
+      },
+      {
+        "codes": "BeeTog,BeeTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Sniper Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "SnipeTog,SnipeTogOff"
+      },
+      {
+        "codes": "SnipeTog,SnipeTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Mootator Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "MooTog,MooTogOff"
+      },
+      {
+        "codes": "MooTog,MooTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Shock Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "ShockTog,ShockTogOff"
+      },
+      {
+        "codes": "ShockTog,ShockTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Static Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "StaticTog,StaticTogOff"
+      },
+      {
+        "codes": "StaticTog,StaticTogOn"
+      }
+    ]
+  },
+  {
+    "name": "Laser Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "LaserTog,LaserTogOff"
+      },
+      {
+        "codes": "LaserTog,LaserTogOn"
+      }
+    ]
+  },
+  {
+    "name": "RYNO Toggle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "RYNOTog,RYNOTogOff"
+      },
+      {
+        "codes": "RYNOTog,RYNOTogOn"
       }
     ]
   },

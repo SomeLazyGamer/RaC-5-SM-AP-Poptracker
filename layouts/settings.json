@@ -24,22 +24,31 @@
             "ClankSkills"
           ],
           [
-            "Missions",
+            "ClankPack",
             "SkySkills"
           ],
           [
-            "Cutscenes",
+            "Missions",
             "ArmorSets"
           ],
           [
-            "ClankChall",
+            "Cutscenes",
             "WeapLVL"
           ],
           [
-            "SkyChall",
+            "ClankChall",
             "NGPItem"
           ],
           [
+            "SkyChall",
+            "NGP"
+          ],
+          [
+            "ShrinkOp",
+            "Nano"
+          ],
+          [
+            "ProgChall",
             "AutoTab"
           ]
         ]

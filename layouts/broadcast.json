@@ -11,7 +11,7 @@
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "6, 2",
+            "item_margin": ", 2",
             "h_alignment": "left",
             "item_size": "36",
             "rows": [
@@ -22,7 +22,8 @@
                 "Agents",
                 "Scorcher",
                 "Hypershot",
-                "Sprout"
+                "Sprout",
+                "Heli"
               ],
               [
                 "Bee",
@@ -31,7 +32,8 @@
                 "Moo",
                 "Shock",
                 "Polar",
-                "Shrink"
+                "Shrink",
+                "ProgNG"
               ],
               [
                 "Static",
@@ -40,7 +42,8 @@
                 "BoltGrab",
                 "BoxBreak",
                 "Map",
-                "PDA"
+                "PDA",
+                "UniArmor"
               ]
             ]
           },

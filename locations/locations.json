@@ -26,12 +26,36 @@
             "ref": "Pokitaru/Gadgetron Vendor/Concussion Gun - 10,000"
           },
           {
+            "name": "Gadgetron Vendor: Lacerator Titan - 250,000",
+            "ref": "Pokitaru/Gadgetron Vendor/Lacerator Titan - 250,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Acid Bomb Glove Titan - 250,000",
+            "ref": "Pokitaru/Gadgetron Vendor/Acid Bomb Glove Titan - 250,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Concussion Gun Titan - 250,000",
+            "ref": "Pokitaru/Gadgetron Vendor/Concussion Gun Titan - 250,000"
+          },
+          {
+            "name": "Gadgetron Vendor: RYNO - 9,990,000",
+            "ref": "Pokitaru/Gadgetron Vendor/RYNO - 9,990,000"
+          },
+          {
             "name": "Gadgetron Vendor: Hypershot - 5,000",
             "ref": "Pokitaru/Gadgetron Vendor/Hypershot - 5,000"
           },
           {
             "name": "Wildfire Chestplate on bridge",
             "ref": "Pokitaru/On Bridge/Wildfire Chestplate"
+          },
+          {
+            "name": "Hyperborean Gloves",
+            "ref": "Pokitaru/Before Zipline/Hyperborean Gloves"
+          },
+          {
+            "name": "Chameleon Boots",
+            "ref": "Pokitaru/After Boat Ride/Chameleon Boots"
           },
           {
             "name": "Wildfire Gloves in the skuttle crab cave",
@@ -87,6 +111,10 @@
             "ref": "Ryllus/Gadgetron Vendor/Agents of Doom - 25,000"
           },
           {
+            "name": "Gadgetron Vendor: Agents of Doom Titan - 250,000",
+            "ref": "Ryllus/Gadgetron Vendor/Agents of Doom Titan - 250,000"
+          },
+          {
             "name": "Receive Sprout-O-Matic",
             "ref": "Ryllus/Receive Sprout-O-Matic/Lemme have that water pistol lil' fella."
           },
@@ -97,6 +125,10 @@
           {
             "name": "Wildfire Helmet before temple entrance",
             "ref": "Ryllus/Before Temple Entrance/Wildfire Helmet"
+          },
+          {
+            "name": "Hyperborean Boots",
+            "ref": "Ryllus/Near Vendor/Hyperborean Boots"
           },
           {
             "name": "T-Bolt: Down The Cliff",
@@ -152,12 +184,36 @@
             "ref": "Kalidon/Gadgetron Vendor/Scorcher - 20,000"
           },
           {
+            "name": "Gadgetron Vendor: Scorcher Titan - 250,000",
+            "ref": "Kalidon/Gadgetron Vendor/Scorcher Titan - 250,000"
+          },
+          {
             "name": "Slim Cognito: Lacerator Lock On Mod - 5,000",
             "ref": "Kalidon/Slim Cognito/Lacerator Lock On Mod - 5,000"
           },
           {
             "name": "Slim Cognito: Concussion Gun Split Barrel Mod - 15,000",
             "ref": "Kalidon/Slim Cognito/Concussion Gun Split Barrel Mod - 15,000"
+          },
+          {
+            "name": "Slim Cognito: Agents of Doom Explosive Mod - 450,000",
+            "ref": "Kalidon/Slim Cognito/Agents of Doom Explosive Mod - 450,000"
+          },
+          {
+            "name": "Slim Cognito: Scorcher Sunflare Mod - 200,000",
+            "ref": "Kalidon/Slim Cognito/Scorcher Sunflare Mod - 200,000"
+          },
+          {
+            "name": "Slim Cognito: Bee Mine Glove Hive Bomb Mod - 300,000",
+            "ref": "Kalidon/Slim Cognito/Bee Mine Glove Hive Bomb Mod - 300,000"
+          },
+          {
+            "name": "Slim Cognito: Suck Cannon Bounce Mod - 600,000",
+            "ref": "Kalidon/Slim Cognito/Suck Cannon Bounce Mod - 600,000"
+          },
+          {
+            "name": "Slim Cognito: Static Barrier Reflection Mod - 250,000",
+            "ref": "Kalidon/Slim Cognito/Static Barrier Reflection Mod - 250,000"
           },
           {
             "name": "Receive Shrink Ray",
@@ -168,8 +224,12 @@
             "ref": "Kalidon/Inside Factory/Wildfire Boots"
           },
           {
-            "name": "Sludge Mk9 Chestplate from Mundo Fight",
-            "ref": "Kalidon/Mundo Fight/Sludge Mk9 Chestplate"
+            "name": "Sludge Mk9 Chestplate from Mungo Fight",
+            "ref": "Kalidon/Mungo Fight/Sludge Mk9 Chestplate"
+          },
+          {
+            "name": "Chameleon Chestplate",
+            "ref": "Kalidon/Mungo Fight/Chameleon Chestplate"
           },
           {
             "name": "Search the factory",
@@ -226,6 +286,14 @@
           {
             "name": "Skill Point: Super Lombax",
             "ref": "Kalidon/Skill Point: Super Lombax/Kill 25 enemies in a row without getting hit."
+          },
+          {
+            "name": "Kalidon: Shrink Ray Enter the Factory",
+            "ref": "Kalidon/Enter the Factory/Shrink Ray Grindrail"
+          },
+          {
+            "name": "Kalidon: Shrink Ray Inside the Factory",
+            "ref": "Kalidon/Inside the Factory/Shrink Ray Grindrail"
           }
         ]
       },
@@ -258,7 +326,7 @@
           },
           {
             "name": "Skill Point: Terror of the Skies",
-            "ref": "Metalis/Giant Clank/SP: Terror of the Skies (Get over 950 Points)"
+            "ref": "Metalis/Giant Clank/SP: Terror of the Skies (Get over 600 (950 in NG+) Points)"
           },
           {
             "name": "Survive Robot War III (Complete Buzzsaw Blitz)",
@@ -350,8 +418,16 @@
             "ref": "Dreamtime/Gadgetron Vendor/Suck Cannon - 30,000"
           },
           {
+            "name": "Gadgetron Vendor: Suck Cannon Titan - 300,000",
+            "ref": "Dreamtime/Gadgetron Vendor/Suck Cannon Titan - 300,000"
+          },
+          {
             "name": "Crystallix Chestplate after Giant Clank chase",
             "ref": "Dreamtime/Giant Clank Fight/Crystallix Chestplate After Giant Clank Chase"
+          },
+          {
+            "name": "Hyperborean Chestplate",
+            "ref": "Dreamtime/Near Ship???/Hyperborean Chestplate"
           },
           {
             "name": "T-Bolt: Atop the floating hat",
@@ -403,12 +479,20 @@
             "ref": "Medical Outpost Omega/Gadgetron Vendor/Bee Mine Glove - 50,000"
           },
           {
+            "name": "Gadgetron Vendor: Bee Mine Glove Titan - 250,000",
+            "ref": "Medical Outpost Omega/Gadgetron Vendor/Bee Mine Glove Titan - 250,000"
+          },
+          {
             "name": "Gadgetron Vendor: Box Breaker - 20,000",
             "ref": "Medical Outpost Omega/Gadgetron Vendor/Box Breaker - 20,000"
           },
           {
             "name": "Crystallix Boots during escape",
             "ref": "Medical Outpost Omega/Near Dreamtime/Crystallix Boots"
+          },
+          {
+            "name": "Chameleon Gloves",
+            "ref": "Medical Outpost Omega/Near Dreamtime/Chameleon Gloves"
           },
           {
             "name": "T-Bolt: Near the Entrance to DreamTime",
@@ -449,6 +533,14 @@
           {
             "name": "Escape the medical facility",
             "ref": "Medical Outpost Omega/Escape the medical facility/We must leave NOW!"
+          },
+          {
+            "name": "Shrink Ray Grindrail",
+            "ref": "Medical Outpost Omega/First Door/Shrink Ray Grindrail"
+          },
+          {
+            "name": "Shrink Ray Second Grindrail",
+            "ref": "Medical Outpost Omega/Ship Hangar/Shrink Ray Grindrail"
           }
         ]
       },
@@ -466,6 +558,10 @@
           {
             "name": "Gadgetron Vendor: Sniper Mine - 50,000",
             "ref": "Challax/Gadgetron Vendor/Sniper Mine - 50,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Sniper Mine Titan - 500,000",
+            "ref": "Challax/Gadgetron Vendor/Sniper Mine Titan - 500,000"
           },
           {
             "name": "Gadgetron Vendor: PDA - 50,000", 
@@ -500,8 +596,24 @@
             "ref": "Challax/Slim Cognito/Bee Mine Glove Worker Mod - 5,000"
           },
           {
+            "name": "Slim Cognito: Sniper Mine Smart Reflector Mod - 750,000", 
+            "ref": "Challax/Slim Cognito/Sniper Mine Smart Reflector Mod - 750,000"
+          },
+          {
+            "name": "Slim Cognito: Shock Rocket Multi Launcher Mod - 2,000,000",
+            "ref": "Challax/Slim Cognito/Shock Rocket Multi Launcher Mod - 2,000,000"
+          },
+          {
+            "name": "Slim Cognito: Laser Tracer Pierce Mod - 1,250,000",
+            "ref": "Challax/Slim Cognito/Laser Tracer Pierce Mod - 1,250,000"
+          },
+          {
             "name": "Electroshock Helmet after Dropship fight",
             "ref": "Challax/After Dropship fight/Electroshock Helmet"
+          },
+          {
+            "name": "Hyperborean Helmet",
+            "ref": "Challax/Before Elevator/Hyperborean Helmet"
           },
           {
             "name": "T-Bolt: Beside The Ultra Mech Pad", 
@@ -529,15 +641,23 @@
           },
           {
             "name": "Destroy the Space Fortress (Giant Clank)",
-            "ref": "Challax/Giant Clank/Destroy the space fortress"
+            "ref": "Challax/Giant Clank/Destroy the Space Fortress"
           },
           {
             "name": "Skill Point: No More Varmints!",
-            "ref": "Challax/Giant Clank/SP: No More Varmints! (Get over 1900 Points)"
+            "ref": "Challax/Giant Clank/SP: No More Varmints! (Get over 1535 (1900 in NG+) Points)"
           },
           {
             "name": "Skill Point: High Tech Weapons Master",
             "ref": "Challax/Skill Point: High Tech Weapons Master/Beat the enemy segment without using the Lacerator, Acid Bomb Glove, Concussion Gun, Shock Rocket, Laser Tracer, Sniper Mine or the RYNO."
+          },
+          {
+            "name": "Challax: Shrink Ray Grindrail",
+            "ref": "Challax/Entrance/Shrink Ray Grindrail"
+          },
+          {
+            "name": "Shrink Ray Second Puzzle",
+            "ref": "Challax/Elevator/Shrink Ray Grindrail"
           }
         ]
       },
@@ -555,6 +675,14 @@
           {
             "name": "Gadgetron Vendor: Shock Rocket - 55,000",
             "ref": "Dayni Moon/Gadgetron Vendor/Shock Rocket - 55,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Shock Rocket Titan - 1,250,000",
+            "ref": "Dayni Moon/Gadgetron Vendor/Shock Rocket Titan - 1,250,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Mootator Titan - 1,500,000",
+            "ref": "Dayni Moon/Gadgetron Vendor/Mootator Titan - 1,500,000"
           },
           {
             "name": "Gadgetron Vendor: Map-O-Matic - 50,000",
@@ -595,6 +723,10 @@
           {
             "name": "Skill Point: Wool Protest",
             "ref": "Dayni Moon/Skill Point: Wool Protest/Complete level 8 without killing any Angry Rams."
+          },
+          {
+            "name": "Dayni Moon: Shrink Ray Titanium bolt entrance",
+            "ref": "Dayni Moon/Titanium Bolt Entrance/Shrink Ray Grindrail"
           },
           {
             "name": "Clank Challenge: Welcome to Dayni",
@@ -678,8 +810,16 @@
             "ref": "Inside Clank/Gadgetron Vendor/Static Barrier - 65,000"
           },
           {
+            "name": "Gadgetron Vendor: Static Barrier Titan - 2,500,000",
+            "ref": "Inside Clank/Gadgetron Vendor/Static Barrier Titan - 2,500,000"
+          },
+          {
             "name": "Mega Bomb Chestplate",
             "ref": "Inside Clank/Clank's Mouth/Mega Bomb Chestplate"
+          },
+          {
+            "name": "Chameleon Helmet",
+            "ref": "Inside Clank/At the Start/Chameleon Helmet"
           },
           {
             "name": "T-Bolt: Walk behind the ladder",
@@ -708,6 +848,10 @@
           {
             "name": "Skill Point: Not the Shock of Me Now",
             "ref": "Inside Clank/Skill Point: Not the Shock of Me Now/Don't get hit at all while inside Clank's head"
+          },
+          {
+            "name": "Inside Clank: Shrink Ray Grindrail",
+            "ref": "Inside Clank/Heart Room/Shrink Ray Grindrail"
           }
         ]
       },
@@ -725,6 +869,10 @@
           {
             "name": "Gadgetron Vendor: Laser Tracer - 85,000",
             "ref": "Quodrona/Gadgetron Vendor/Laser Tracer - 85,000"
+          },
+          {
+            "name": "Gadgetron Vendor: Laser Tracer Titan - 250,000",
+            "ref": "Quodrona/Gadgetron Vendor/Laser Tracer Titan - 250,000"
           },
           {
             "name": "Slim Cognito: Agents of Doom Launcher Mod - 20,000",
@@ -745,6 +893,14 @@
           {
             "name": "Slim Cognito: Shock Rocket Lock On Mod - 5,000",
             "ref": "Quodrona/Slim Cognito/Shock Rocket Lock On Mod - 5,000"
+          },
+          {
+            "name": "Slim Cognito: Laser Tracer Ricochet Mod - 500,000",
+            "ref": "Quodrona/Slim Cognito/Laser Tracer Ricochet Mod - 500,000"
+          },
+          {
+            "name": "Slim Cognito: Static Barrier Mirage Mod - 1,250,000",
+            "ref": "Quodrona/Slim Cognito/Static Barrier Mirage Mod - 1,250,000"
           },
           {
             "name": "T-Bolt: Ratchet Clones and Dummies",
@@ -781,6 +937,14 @@
           {
             "name": "Skill Point: Elite Annihilation",
             "ref": "Quodrona/Otto/SP: Elite Annihilation (Defeat 70 clones during the clone fight.)"
+          },
+          {
+            "name": "Quodrona: Shrink Ray Entrance",
+            "ref": "Quodrona/Entrance/Shrink Ray Grindrail"
+          },
+          {
+            "name": "Quodrona: Shrink Ray Clone Training Room",
+            "ref": "Quodrona/Clone Training Room/Shrink Ray Grindrail"
           }
         ]
       },
@@ -1046,6 +1210,7 @@
       },
       {
         "name": "Lacerator Levels",
+        "visibility_rules": ["LacTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1071,13 +1236,37 @@
           {
             "name": "Lacerator: V4",
             "access_rules": [ "ProgWeapOn, Lacerator:4", "ProgWeapOff, Lacerator" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Lacerator: V5",
+            "access_rules": [ "ProgWeapOn, Lacerator:5", "ProgWeapOff, Lacerator" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Lacerator: V6",
+            "access_rules": [ "ProgWeapOn, Lacerator:6", "ProgWeapOff, Lacerator" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Lacerator: V7",
+            "access_rules": [ "ProgWeapOn, Lacerator:7", "ProgWeapOff, Lacerator" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Lacerator: V8",
+            "access_rules": [ "ProgWeapOn, Lacerator:8", "ProgWeapOff, Lacerator" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Acid Bomb Glove Levels",
+        "visibility_rules": ["AcidTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1103,13 +1292,38 @@
           {
             "name": "Acid Bomb Glove: V4",
             "access_rules": [ "ProgWeapOn, Acid:4", "ProgWeapOff, Acid" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Acid Bomb Glove: V5",
+            "access_rules": [ "ProgWeapOn, Acid:5", "ProgWeapOff, Acid" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Acid Bomb Glove: V6",
+            "access_rules": [ "ProgWeapOn, Acid:6", "ProgWeapOff, Acid" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Acid Bomb Glove: V7",
+            "access_rules": [ "ProgWeapOn, Acid:7", "ProgWeapOff, Acid" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Acid Bomb Glove: V8",
+            "access_rules": [ "ProgWeapOn, Acid:8", "ProgWeapOff, Acid" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Concussion Gun Levels",
+        "visibility_rules": ["ConTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1135,13 +1349,38 @@
           {
             "name": "Concussion Gun: V4",
             "access_rules": [ "ProgWeapOn, Concussion:4", "ProgWeapOff, Concussion" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Concussion Gun: V5",
+            "access_rules": [ "ProgWeapOn, Concussion:5", "ProgWeapOff, Concussion" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Concussion Gun: V6",
+            "access_rules": [ "ProgWeapOn, Concussion:6", "ProgWeapOff, Concussion" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Concussion Gun: V7",
+            "access_rules": [ "ProgWeapOn, Concussion:7", "ProgWeapOff, Concussion" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Concussion Gun: V8",
+            "access_rules": [ "ProgWeapOn, Concussion:8", "ProgWeapOff, Concussion" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Agents of Doom Levels",
+        "visibility_rules": ["AgentsTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1167,13 +1406,38 @@
           {
             "name": "Agents of Doom: V4",
             "access_rules": [ "ProgWeapOn, Agents:4", "ProgWeapOff, Agents" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Agents of Doom: V5",
+            "access_rules": [ "ProgWeapOn, Agents:5", "ProgWeapOff, Agents" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Agents of Doom: V6",
+            "access_rules": [ "ProgWeapOn, Agents:6", "ProgWeapOff, Agents" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Agents of Doom: V7",
+            "access_rules": [ "ProgWeapOn, Agents:7", "ProgWeapOff, Agents" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Agents of Doom: V8",
+            "access_rules": [ "ProgWeapOn, Agents:8", "ProgWeapOff, Agents" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Scorcher Levels",
+        "visibility_rules": ["ScorchTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1199,13 +1463,38 @@
           {
             "name": "Scorcher: V4",
             "access_rules": [ "ProgWeapOn, Scorcher:4", "ProgWeapOff, Scorcher" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Scorcher: V5",
+            "access_rules": [ "ProgWeapOn, Scorcher:5", "ProgWeapOff, Scorcher" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Scorcher: V6",
+            "access_rules": [ "ProgWeapOn, Scorcher:6", "ProgWeapOff, Scorcher" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Scorcher: V7",
+            "access_rules": [ "ProgWeapOn, Scorcher:7", "ProgWeapOff, Scorcher" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Scorcher: V8",
+            "access_rules": [ "ProgWeapOn, Scorcher:8", "ProgWeapOff, Scorcher" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Bee Mine Glove Levels",
+        "visibility_rules": ["BeeTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1231,13 +1520,38 @@
           {
             "name": "Bee Mine Glove: V4",
             "access_rules": [ "ProgWeapOn, Bee:4", "ProgWeapOff, Bee" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Bee Mine Glove: V5",
+            "access_rules": [ "ProgWeapOn, Bee:5", "ProgWeapOff, Bee" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Bee Mine Glove: V6",
+            "access_rules": [ "ProgWeapOn, Bee:6", "ProgWeapOff, Bee" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Bee Mine Glove: V7",
+            "access_rules": [ "ProgWeapOn, Bee:7", "ProgWeapOff, Bee" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Bee Mine Glove: V8",
+            "access_rules": [ "ProgWeapOn, Bee:8", "ProgWeapOff, Bee" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Suck Cannon Levels",
+        "visibility_rules": ["SuckTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1263,13 +1577,38 @@
           {
             "name": "Suck Cannon: V4",
             "access_rules": [ "ProgWeapOn, Suck:4", "ProgWeapOff, Suck" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Suck Cannon: V5",
+            "access_rules": [ "ProgWeapOn, Suck:5", "ProgWeapOff, Suck" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Suck Cannon: V6",
+            "access_rules": [ "ProgWeapOn, Suck:6", "ProgWeapOff, Suck" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Suck Cannon: V7",
+            "access_rules": [ "ProgWeapOn, Suck:7", "ProgWeapOff, Suck" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Suck Cannon: V8",
+            "access_rules": [ "ProgWeapOn, Suck:8", "ProgWeapOff, Suck" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Sniper Mine Levels",
+        "visibility_rules": ["SnipeTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1295,13 +1634,38 @@
           {
             "name": "Sniper Mine: V4",
             "access_rules": [ "ProgWeapOn, Sniper:4", "ProgWeapOff, Sniper" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Sniper Mine: V5",
+            "access_rules": [ "ProgWeapOn, Sniper:5", "ProgWeapOff, Sniper" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Sniper Mine: V6",
+            "access_rules": [ "ProgWeapOn, Sniper:6", "ProgWeapOff, Sniper" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Sniper Mine: V7",
+            "access_rules": [ "ProgWeapOn, Sniper:7", "ProgWeapOff, Sniper" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Sniper Mine: V8",
+            "access_rules": [ "ProgWeapOn, Sniper:8", "ProgWeapOff, Sniper" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Mootator Levels",
+        "visibility_rules": ["MooTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1327,13 +1691,38 @@
           {
             "name": "Mootator: V4",
             "access_rules": [ "ProgWeapOn, Moo:4", "ProgWeapOff, Moo" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Mootator: V5",
+            "access_rules": [ "ProgWeapOn, Moo:5", "ProgWeapOff, Moo" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Mootator: V6",
+            "access_rules": [ "ProgWeapOn, Moo:6", "ProgWeapOff, Moo" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Mootator: V7",
+            "access_rules": [ "ProgWeapOn, Moo:7", "ProgWeapOff, Moo" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Mootator: V8",
+            "access_rules": [ "ProgWeapOn, Moo:8", "ProgWeapOff, Moo" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Shock Rocket Levels",
+        "visibility_rules": ["ShockTogOn"],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1359,13 +1748,39 @@
           {
             "name": "Shock Rocket: V4",
             "access_rules": [ "ProgWeapOn, Shock:4", "ProgWeapOff, Shock" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Shock Rocket: V5",
+            "access_rules": [ "ProgWeapOn, Shock:5", "ProgWeapOff, Shock" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Shock Rocket: V6",
+            "access_rules": [ "ProgWeapOn, Shock:6", "ProgWeapOff, Shock" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Shock Rocket: V7",
+            "access_rules": [ "ProgWeapOn, Shock:7", "ProgWeapOff, Shock" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Shock Rocket: V8",
+            "access_rules": [ "ProgWeapOn, Shock:8", "ProgWeapOff, Shock" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Static Barrier Levels",
+        "visibility_rules": ["StaticTogOn"],
+        "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "WeapXP:16" ],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1391,13 +1806,39 @@
           {
             "name": "Static Barrier: V4",
             "access_rules": [ "ProgWeapOn, Static:4", "ProgWeapOff, Static" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Static Barrier: V5",
+            "access_rules": [ "ProgWeapOn, Static:5", "ProgWeapOff, Static" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Static Barrier: V6",
+            "access_rules": [ "ProgWeapOn, Static:6", "ProgWeapOff, Static" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Static Barrier: V7",
+            "access_rules": [ "ProgWeapOn, Static:7", "ProgWeapOff, Static" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Static Barrier: V8",
+            "access_rules": [ "ProgWeapOn, Static:8", "ProgWeapOff, Static" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "Laser Tracer Levels",
+        "visibility_rules": ["LaserTogOn"],
+        "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "WeapXP:16" ],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1423,13 +1864,39 @@
           {
             "name": "Laser Tracer: V4",
             "access_rules": [ "ProgWeapOn, Laser:4", "ProgWeapOff, Laser" ],
-            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax" ],
+            "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Laser Tracer: V5",
+            "access_rules": [ "ProgWeapOn, Laser:5", "ProgWeapOff, Laser" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Laser Tracer: V6",
+            "access_rules": [ "ProgWeapOn, Laser:6", "ProgWeapOff, Laser" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Laser Tracer: V7",
+            "access_rules": [ "ProgWeapOn, Laser:7", "ProgWeapOff, Laser" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1" ],
+            "item_count": 1
+          },
+          {
+            "name": "Laser Tracer: V8",
+            "access_rules": [ "ProgWeapOn, Laser:8", "ProgWeapOff, Laser" ],
+            "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
             "item_count": 1
           }
         ]
       },
       {
         "name": "RYNO Levels",
+        "visibility_rules": ["RYNOTogOn"],
+        "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "WeapXP:16" ],
         "chest_unopened_img": "images/Question.png",
         "chest_opened_img": "images/complete.png",
         "map_locations": [
@@ -1455,11 +1922,480 @@
           {
             "name": "RYNO: V4",
             "access_rules": [ "ProgWeapOn, RYNO:4", "ProgWeapOff, RYNO" ],
-            "visibility_rules": [ "WeapLVLOn, NGPItemOn", "WeapLVLMax, NGPItemOn" ],
+            "visibility_rules": [ "WeapLVLOn, NGPItemOn", "WeapLVLMax, NGPItemOn", "WeapLVL48, NGPItemOn" ],
             "item_count": 1
           }
         ]
-      }
+      },
+  {
+      "name": "Nanotech Levels: 6-15",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
+        "map_locations": [
+          {
+            "map": "Galaxy",
+            "x": 795,
+            "y": 400
+          }
+        ],
+        "sections": [
+          {
+            "name": "Nanotech Level: 6",
+            "visibility_rules": [ "NanoAll, NanoTotal:6" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 7",
+            "visibility_rules": [ "NanoAll, NanoTotal:7"],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 8",
+            "visibility_rules": [ "NanoAll, NanoTotal:8" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 9",
+            "visibility_rules": [ "NanoAll, NanoTotal:9" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 10",
+            "visibility_rules": [ "NanoAll, NanoTotal:10", "NanoTotal:10, Nano10","NanoTotal:10, Nano5" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 11",
+            "visibility_rules": [ "NanoAll, NanoTotal:11" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 12",
+            "visibility_rules": [ "NanoAll, NanoTotal:12" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 13",
+            "visibility_rules": [ "NanoAll, NanoTotal:13" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 14",
+            "visibility_rules": [ "NanoAll, NanoTotal:14" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 15",
+            "visibility_rules": [ "NanoAll, NanoTotal:15", "NanoTotal:15, Nano5", "NanoAll, NanoTotal:15" ],
+            "item_count": 1
+          }
+        ]
+  },
+  {
+      "name": "Nanotech Levels: 16-25",
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
+        "map_locations": [
+          {
+            "map": "Galaxy",
+            "x": 820,
+            "y": 400
+          }
+        ],
+        "sections": [
+          {
+            "name": "Nanotech Level: 16",
+            "visibility_rules": [ "NanoAll, NanoTotal:16" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 17",
+            "visibility_rules": [ "NanoAll, NanoTotal:17" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 18",
+            "visibility_rules": [ "NanoAll, NanoTotal:18" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 19",
+            "visibility_rules": [ "NanoAll, NanoTotal:19" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 20",
+            "visibility_rules": [ "NanoTotal:20, NanoAll","NanoTotal:20, Nano10","NanoTotal:20, Nano5" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 21",
+            "visibility_rules": [ "NanoAll, NanoTotal:21" ],
+            "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 22",
+            "visibility_rules": [ "NanoAll, NanoTotal:22" ],
+            "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 23",
+            "visibility_rules": [ "NanoAll, NanoTotal:23" ],
+            "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 24",
+            "visibility_rules": [ "NanoAll, NanoTotal:24" ],
+            "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 25",
+            "visibility_rules": [ "NanoAll, NanoTotal:25", "NanoTotal:25, Nano25","NanoTotal:25, Nano5" ],
+            "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+            "item_count": 1
+          }
+        ]
+  },
+  {
+      "name": "Nanotech Levels: 26-35",
+        "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
+        "map_locations": [
+          {
+            "map": "Galaxy",
+            "x": 845,
+            "y": 400
+          }
+        ],
+        "sections": [
+          {
+            "name": "Nanotech Level: 26",
+            "visibility_rules": [ "NanoAll, NanoTotal:26" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 27",
+            "visibility_rules": [ "NanoAll, NanoTotal:27" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 28",
+            "visibility_rules": [ "NanoAll, NanoTotal:28" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 29",
+            "visibility_rules": [ "NanoAll, NanoTotal:29" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 30",
+            "visibility_rules": [ "NanoAll, NanoTotal:30", "NanoTotal:30, Nano10","NanoTotal:30, Nano5" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 31",
+            "visibility_rules": [ "NanoAll, NanoTotal:31" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 32",
+            "visibility_rules": [ "NanoAll, NanoTotal:32" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 33",
+            "visibility_rules": [ "NanoAll, NanoTotal:33" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 34",
+            "visibility_rules": [ "NanoAll, NanoTotal:34" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 35",
+            "visibility_rules": [ "NanoAll, NanoTotal:35", "NanoTotal:35, Nano5" ],
+            "item_count": 1
+          }
+        ]
+  },
+  {
+      "name": "Nanotech Levels: 36-45",
+      "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+      "chest_unopened_img": "images/Question.png",
+      "chest_opened_img": "images/complete.png",
+      "map_locations": [
+          {
+            "map": "Galaxy",
+            "x": 870,
+            "y": 400
+          }
+        ],
+      "sections": [
+          {
+            "name": "Nanotech Level: 36",
+            "visibility_rules": [ "NanoAll, NanoTotal:36" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 37",
+            "visibility_rules": [ "NanoAll, NanoTotal:37" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 38",
+            "visibility_rules": [ "NanoAll, NanoTotal:38" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 39",
+            "visibility_rules": [ "NanoAll, NanoTotal:39" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 40",
+            "visibility_rules": [ "NanoAll, NanoTotal:40", "NanoTotal:40, Nano10","NanoTotal:40, Nano5" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 41",
+            "visibility_rules": [ "NanoAll, NanoTotal:41" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 42",
+            "visibility_rules": [ "NanoAll, NanoTotal:42" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 43",
+            "visibility_rules": [ "NanoAll, NanoTotal:43" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 44",
+            "visibility_rules": [ "NanoAll, NanoTotal:44" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 45",
+            "visibility_rules": [ "NanoAll, NanoTotal:45", "NanoTotal:45, Nano5" ],
+            "item_count": 1
+          }
+        ]
+  },
+  {
+      "name": "Nanotech Levels: 46-55",
+      "access_rules": [ "Wreckage, Sprout, Hypershot", "Polar, Shrink, Challax", "Dayni Moon, Sprout", "Quodrona, Shrink", "NanoXP:16" ],
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
+        "map_locations": [
+          {
+            "map": "Galaxy",
+            "x": 895,
+            "y": 400
+          }
+        ],
+        "sections": [
+          {
+            "name": "Nanotech Level: 46",
+            "visibility_rules": [ "NanoAll, NanoTotal:46" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 47",
+            "visibility_rules": [ "NanoAll, NanoTotal:47" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 48",
+            "visibility_rules": [ "NanoAll, NanoTotal:48" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 49",
+            "visibility_rules": [ "NanoAll, NanoTotal:49" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 50",
+            "visibility_rules": [ "NanoAll, NanoTotal:50", "NanoTotal:50, Nano25", "NanoTotal:50, Nano10", "NanoTotal:50, Nano5" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 51",
+            "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+            "visibility_rules": [ "NanoAll, NanoTotal:51" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 52",
+            "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+            "visibility_rules": [ "NanoAll, NanoTotal:52" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 53",
+            "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+            "visibility_rules": [ "NanoAll, NanoTotal:53" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 54",
+            "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+            "visibility_rules": [ "NanoAll, NanoTotal:54" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 55",
+            "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+            "visibility_rules": [ "NanoAll, NanoTotal:55", "NanoTotal:55, Nano5" ],
+            "item_count": 1
+          }
+        ]
+  },
+  {
+      "name": "Nanotech Levels: 56-65",
+      "access_rules": [ "ProgChallOn, ProgNG1, Wreckage, Sprout, Hypershot", "ProgChallOn, ProgNG1, Polar, Shrink, Challax", 
+      "ProgChallOn, ProgNG1, Dayni Moon, Sprout", "ProgChallOn, ProgNG1, Quodrona, Shrink", "ProgChallOn, ProgNG1, NanoXP:16", 
+      "ProgChallOff, Wreckage, Sprout, Hypershot", "ProgChallOff, Polar, Shrink, Challax", 
+      "ProgChallOff, Dayni Moon, Sprout", "ProgChallOff, Quodrona, Shrink", "ProgChallOff, NanoXP:16" ],
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
+        "map_locations": [
+          {
+            "map": "Galaxy",
+            "x": 920,
+            "y": 400
+          }
+        ],
+        "sections": [
+          {
+            "name": "Nanotech Level: 56",
+            "visibility_rules": [ "NanoAll, NanoTotal:56" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 57",
+            "visibility_rules": [ "NanoAll, NanoTotal:57" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 58",
+            "visibility_rules": [ "NanoAll, NanoTotal:58" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 59",
+            "visibility_rules": [ "NanoAll, NanoTotal:59" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 60",
+            "visibility_rules": [ "NanoAll, NanoTotal:60", "NanoTotal:60, Nano10","NanoTotal:60, Nano5" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 61",
+            "visibility_rules": [ "NanoAll, NanoTotal:61" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 62",
+            "visibility_rules": [ "NanoAll, NanoTotal:62" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 63",
+            "visibility_rules": [ "NanoAll, NanoTotal:63" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 64",
+            "visibility_rules": [ "NanoAll, NanoTotal:64" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 65",
+            "visibility_rules": [ "NanoAll, NanoTotal:65", "NanoTotal:65, Nano5" ],
+            "item_count": 1
+          }
+        ]
+  },
+  {
+      "name": "Nanotech Levels: 66-75",
+      "access_rules": [ "ProgChallOn, ProgNG1, Wreckage, Sprout, Hypershot", "ProgChallOn, ProgNG1, Polar, Shrink, Challax", 
+      "ProgChallOn, ProgNG1, Dayni Moon, Sprout", "ProgChallOn, ProgNG1, Quodrona, Shrink", "ProgChallOn, ProgNG1, NanoXP:16", 
+      "ProgChallOff, Wreckage, Sprout, Hypershot", "ProgChallOff, Polar, Shrink, Challax", 
+      "ProgChallOff, Dayni Moon, Sprout", "ProgChallOff, Quodrona, Shrink", "ProgChallOff, NanoXP:16" ],
+        "chest_unopened_img": "images/Question.png",
+        "chest_opened_img": "images/complete.png",
+        "map_locations": [
+          {
+            "map": "Galaxy",
+            "x": 945,
+            "y": 400
+          }
+        ],
+        "sections": [
+          {
+            "name": "Nanotech Level: 66",
+            "visibility_rules": [ "NanoAll, NanoTotal:66" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 67",
+            "visibility_rules": [ "NanoAll, NanoTotal:67" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 68",
+            "visibility_rules": [ "NanoAll, NanoTotal:68" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 69",
+            "visibility_rules": [ "NanoAll, NanoTotal:69" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 70",
+            "visibility_rules": [ "NanoAll, NanoTotal:70", "NanoTotal:70, Nano10","NanoTotal:70, Nano5" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 71",
+            "visibility_rules": [ "NanoAll, NanoTotal:71" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 72",
+            "visibility_rules": [ "NanoAll, NanoTotal:72" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 73",
+            "visibility_rules": [ "NanoAll, NanoTotal:73" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 74",
+            "visibility_rules": [ "NanoAll, NanoTotal:74" ],
+            "item_count": 1
+          },
+          {
+            "name": "Nanotech Level: 75",
+            "visibility_rules": [ "NanoAll, NanoTotal:75", "NanoTotal:75, Nano25", "NanoTotal:75, Nano5" ],
+            "item_count": 1
+          }
+        ]
+  }
     ]
   },
   {
@@ -1493,6 +2429,7 @@
               "sections": [
                   {
                       "name": "Complete Luna's Photoshoot",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   }
@@ -1513,6 +2450,7 @@
               "sections": [
                   {
                       "name": "Wildfire Chestplate",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "item_count": 1
                   }
               ],
@@ -1532,6 +2470,7 @@
               "sections": [
                   {
                       "name": "Wildfire Gloves",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "item_count": 1
                   }
               ],
@@ -1545,12 +2484,57 @@
               ]
           },
           {
+              "name": "Before Zipline",
+              "chest_unopened_img": "images/items/armor/HypGlove.png",
+              "chest_opened_img": "images/complete.png",
+              "visibility_rules": [ "NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+              "sections": [
+                  {
+                      "name": "Hyperborean Gloves",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Pokitaru",
+                      "x": "325",
+                      "y": "369",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "After Boat Ride",
+              "chest_unopened_img": "images/items/armor/ChaBoot.png",
+              "chest_opened_img": "images/complete.png",
+              "visibility_rules": [ "NGP2" ],
+              "access_rules": ["ProgChallOn, ProgNG2", "ProgChallOff"],
+              "sections": [
+                  {
+                      "name": "Chameleon Boots",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Pokitaru",
+                      "x": "96",
+                      "y": "244",
+                      "size": 14
+                  }
+              ]
+          },
+          {
               "name": "Rescue the Girl",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "There Are. No. TECHNOMITES.",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "visibility_rules": [ "MissionsOn" ],
                       "item_count": 1
                   }
@@ -1571,14 +2555,41 @@
               "sections": [
                   {
                       "name": "Lacerator - 0",
+                      "visibility_rules": ["LacTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Lacerator Titan - 250,000",
+                      "visibility_rules": [ "LacTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   },
                   {
                       "name": "Acid Bomb Glove - 0",
+                      "visibility_rules": ["AcidTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Acid Bomb Glove Titan - 250,000",
+              "visibility_rules": [ "AcidTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   },
                   {
                       "name": "Concussion Gun - 10,000",
+                      "visibility_rules": ["ConTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Concussion Gun Titan - 250,000",
+              "visibility_rules": [ "ConTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "RYNO - 9,990,000",
+              "visibility_rules": [ "RYNOTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
                       "item_count": 1
                   },
                   {
@@ -1603,6 +2614,7 @@
               "sections": [
                   {
                       "name": "Complete the training portion of Pokitaru in less than 1:32.",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "item_count": 1
                   }
               ],
@@ -1623,6 +2635,7 @@
               "sections": [
                   {
                       "name": "Complete the boat challenge of Pokitaru without taking a single hit.",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "item_count": 1
                   }
               ],
@@ -1639,11 +2652,12 @@
               "name": "Skill Point: Do Cows Get Crabby?",
               "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
-              "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
+              "visibility_rules": [ "SkillsOn" ],
               "access_rules": [ "Moo" ],
               "sections": [
                   {
                       "name": "Turn 26 crabs into cows with the Mootator or Armoogeddon.",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "item_count": 1
                   }
               ],
@@ -1663,14 +2677,15 @@
               "sections": [
                   {
                       "name": "T-Bolt",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "item_count": 1
                   }
               ],
               "map_locations": [
                   {
                       "map": "Pokitaru",
-                      "x": "210",
-                      "y": "422",
+                      "x": "344",
+                      "y": "371",
                       "size": 14
                   }
               ]
@@ -1682,14 +2697,15 @@
               "sections": [
                   {
                       "name": "T-Bolt",
+                      "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
                       "item_count": 1
                   }
               ],
               "map_locations": [
                   {
                       "map": "Pokitaru",
-                      "x": "210",
-                      "y": "422",
+                      "x": "164",
+                      "y": "189",
                       "size": 14
                   }
               ]
@@ -1842,12 +2858,40 @@
               ]
           },
           {
+              "name": "Near Vendor",
+              "chest_unopened_img": "images/items/armor/HypBoot.png",
+              "chest_opened_img": "images/complete.png",
+              "visibility_rules": [ "NGP1" ],
+              "access_rules": ["Sprout, Hypershot, ProgChallOn, ProgNG1", "Sprout, Hypershot, ProgChallOff"],
+              "sections": [
+                  {
+                      "name": "Hyperborean Boots",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Ryllus",
+                      "x": "348",
+                      "y": "339",
+                      "size": 14
+                  }
+              ]
+          },
+          {
               "name": "Gadgetron Vendor",
               "chest_unopened_img": "images/crate.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Agents of Doom - 25,000",
+                      "visibility_rules": ["AgentsTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Agents of Doom Titan - 250,000",
+                      "visibility_rules": [ "AgentsTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   }
               ],
@@ -2008,6 +3052,7 @@
                       "name": "Receive Shrink Ray",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+                      "visibility_rules": [ "SkyChallOn" ],
                       "item_count": 1
                   },
                   {
@@ -2042,7 +3087,7 @@
                       "name": "SP: Be A Cool Skyboarder (Win a race without boosting.)",
               "chest_unopened_img": "images/board.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "SkySkillsOn" ],
+                      "visibility_rules": [ "SkySkillsOn, SkyChallOn" ],
                       "item_count": 1
                   }
               ],
@@ -2076,13 +3121,21 @@
               ]
           },
           {
-              "name": "Mundo Fight",
-              "chest_unopened_img": "images/items/armor/SluChest.png",
-              "chest_opened_img": "images/complete.png",
-              "access_rules": ["Shrink, Hypershot"],
+              "name": "Mungo Fight",
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "Sludge Mk9 Chestplate",
+              "chest_unopened_img": "images/items/armor/SluChest.png",
+              "chest_opened_img": "images/complete.png",
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Chameleon Chestplate",
+              "visibility_rules": [ "NGP2" ],
+              "access_rules": ["ProgChallOn, ProgNG2", "ProgChallOff"],
+              "chest_unopened_img": "images/items/armor/ChaChest.png",
+              "chest_opened_img": "images/complete.png",
                       "item_count": 1
                   }
               ],
@@ -2099,7 +3152,7 @@
               "name": "Search the Factory",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Shrink, Hypershot"],
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "That's very good Luna!",
@@ -2123,6 +3176,13 @@
               "sections": [
                   {
                       "name": "Scorcher - 20,000",
+                      "visibility_rules": ["ScorchTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Scorcher Titan - 250,000",
+                      "visibility_rules": [ "ScorchTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   }
               ],
@@ -2142,10 +3202,42 @@
               "sections": [
                   {
                       "name": "Lacerator Lock On Mod - 5,000",
+                      "visibility_rules": ["LacTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Concussion Gun Split Barrel Mod - 15,000",
+                      "visibility_rules": ["ConTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Agents of Doom Explosive Mod - 450,000",
+                      "visibility_rules": [ "AgentsTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Scorcher Sunflare Mod - 200,000",
+                      "visibility_rules": [ "ScorchTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Bee Mine Glove Hive Bomb Mod - 300,000",
+                      "visibility_rules": [ "BeeTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Suck Cannon Bounce Mod - 600,000",
+                      "visibility_rules": [ "SuckTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Static Barrier Reflection Mod - 250,000",
+                      "visibility_rules": [ "StaticTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
                       "item_count": 1
                   }
               ],
@@ -2163,7 +3255,7 @@
               "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn", "SkillsEasy" ],
-              "access_rules": ["Shrink, Hypershot"],
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "Clear all the remote bombs in the Gravity Boot sphere.",
@@ -2184,7 +3276,7 @@
               "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
-              "access_rules": ["Shrink, Hypershot"],
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "Kill 25 enemies in a row without getting hit.",
@@ -2243,7 +3335,7 @@
               "name": "Grav-Ramps",
               "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Shrink, Hypershot"],
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -2255,6 +3347,48 @@
                       "map": "Kalidon",
                       "x": "206",
                       "y": "285",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Enter the Factory",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink, Hypershot"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Kalidon",
+                      "x": "244",
+                      "y": "356",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Inside the Factory",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Kalidon",
+                      "x": "224",
+                      "y": "247",
                       "size": 14
                   }
               ]
@@ -2301,7 +3435,7 @@
                       "item_count": 1
                   },
                   {
-                      "name": "SP: Terror of the Skies (Get over 950 Points)",
+                      "name": "SP: Terror of the Skies (Get over 600 (950 in NG+) Points)",
                       "visibility_rules": [ "SkillsOn" ],
                       "item_count": 1
                   }
@@ -2322,119 +3456,119 @@
                       "name": "Survive Robot War III (Complete Buzzsaw Blitz)",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn", "MissionsOn" ],
+                      "visibility_rules": [ "ClankChallOn, MissionsOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Buzzsaw Blitz",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn", "ClankChallItem, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "CHARGE!",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Electric Boogaloo",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Showdown",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Smasherbot's Revenge",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn", "ClankChallItem, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Little League",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Varsity Bracket",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Collegiate Division",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Professional Level",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "The Uber Finals",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn", "ClankChallItem, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Take Two For The Team",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Bridge The Gap",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Of Trapeze and Teleporters",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Brain Trip",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Night Impossible",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn", "ClankChallItem, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "SP: Shutout (Win Gadgebot Toss without letting others score.)",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankSkillsOn" ],
+                      "visibility_rules": [ "ClankSkillsOn, TossOn" ],
                       "item_count": 1
                   },
                   {
@@ -2462,6 +3596,7 @@
               "sections": [
                   {
                       "name": "T-Bolt",
+                      "access_rules": ["ClankPackOff", "ClankPackOn, Heli"],
                       "item_count": 1
                   }
               ],
@@ -2567,6 +3702,7 @@
                   },
                   {
                       "name": "T-Bolt: Apparition of the Scuttle Crab",
+              "access_rules": ["Lacerator", "Concussion", "Scorcher", "Sniper", "Shock", "Laser", "RYNO"],
               "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
                       "item_count": 1
@@ -2582,12 +3718,40 @@
               ]
           },
           {
+              "name": "Near Ship???",
+              "chest_unopened_img": "images/items/armor/HypChest.png",
+              "chest_opened_img": "images/complete.png",
+              "visibility_rules": [ "NGP1" ],
+              "access_rules": ["Sprout, Hypershot, ProgChallOn, ProgNG1", "Sprout, Hypershot, ProgChallOff"],
+              "sections": [
+                  {
+                      "name": "Hyperborean Chestplate",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Dreamtime",
+                      "x": "180",
+                      "y": "454",
+                      "size": 14
+                  }
+              ]
+          },
+          {
               "name": "Gadgetron Vendor",
               "chest_unopened_img": "images/crate.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Suck Cannon - 30,000",
+                      "visibility_rules": ["SuckTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Suck Cannon Titan - 300,000",
+                      "visibility_rules": [ "SuckTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   }
               ],
@@ -2650,7 +3814,6 @@
               "name": "Surgical Factory",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Sprout, Hypershot, Shrink"],
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -2669,13 +3832,13 @@
           },
           {
               "name": "Laboratory",
+              "access_rules": ["Shrink"],
               "sections": [
                   {
                       "name": "Escape from Facility Pt.1",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
                       "visibility_rules": [ "CutscenesOn" ],
-                      "access_rules": ["Sprout, Hypershot, Shrink"],
                       "item_count": 1
                   },
                   {
@@ -2695,8 +3858,30 @@
               ]
           },
           {
+              "name": "Near Shrink Pad",
+              "access_rules": ["Shrink"],
+              "sections": [
+                  {
+                      "name": "Chameleon Gloves (Same as: Near Dreamtime)",
+              "visibility_rules": [ "NGP2" ],
+              "access_rules": ["ProgChallOn, ProgNG2", "ProgChallOff"],
+              "chest_unopened_img": "images/items/armor/ChaGlove.png",
+              "chest_opened_img": "images/complete.png",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Medical Outpost Omega",
+                      "x": "179",
+                      "y": "473",
+                      "size": 28
+                  }
+              ]
+          },
+          {
               "name": "Escape the medical facility",
-              "access_rules": ["Sprout, Hypershot, Shrink"],
+              "access_rules": ["Shrink"],
               "sections": [
                   {
                       "name": "We must leave NOW!",
@@ -2723,6 +3908,14 @@
               "chest_unopened_img": "images/items/armor/CryBoot.png",
               "chest_opened_img": "images/complete.png",
                       "item_count": 1
+                  },
+                  {
+                      "name": "Chameleon Gloves",
+              "chest_unopened_img": "images/items/armor/ChaGlove.png",
+              "visibility_rules": [ "NGP2" ],
+              "access_rules": ["ProgChallOn, ProgNG2", "ProgChallOff"],
+              "chest_opened_img": "images/complete.png",
+                      "item_count": 1
                   }
               ],
               "map_locations": [
@@ -2741,7 +3934,7 @@
                       "name": "Rematch - Skyboard racers (Complete Interior Decorating)",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "MissionsOn" ],
+                      "visibility_rules": [ "MissionsOn, SkyChallOn" ],
                       "item_count": 1
                   },
                   {
@@ -2776,7 +3969,7 @@
                       "name": "SP: Be An Awesome Skyboarder (Beat Vertigo in under 3:25.)",
               "chest_unopened_img": "images/board.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "SkySkillsOn" ],
+                      "visibility_rules": [ "SkySkillsOn, SkyChallOn" ],
                       "item_count": 1
                   }
               ],
@@ -2791,11 +3984,19 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "access_rules": ["Shrink"],
               "chest_unopened_img": "images/crate.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Bee Mine Glove - 50,000",
+                      "visibility_rules": ["BeeTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Bee Mine Glove Titan - 250,000",
+                      "visibility_rules": [ "BeeTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   },
                   {
@@ -2838,6 +4039,7 @@
               "sections": [
                   {
                       "name": "T-Bolt",
+                      "access_rules": ["Shrink"],
                       "item_count": 1
                   }
               ],
@@ -2846,6 +4048,48 @@
                       "map": "Medical Outpost Omega",
                       "x": "211",
                       "y": "462",
+                      "size": 28
+                  }
+              ]
+          },
+          {
+              "name": "First Door",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Medical Outpost Omega",
+                      "x": "404",
+                      "y": "129",
+                      "size": 28
+                  }
+              ]
+          },
+          {
+              "name": "Ship Hangar",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Medical Outpost Omega",
+                      "x": "145",
+                      "y": "475",
                       "size": 28
                   }
               ]
@@ -2897,10 +4141,31 @@
               ]
           },
           {
+              "name": "Before Elevator",
+              "chest_unopened_img": "images/items/armor/HypHelmet.png",
+              "chest_opened_img": "images/complete.png",
+              "visibility_rules": [ "NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1, Polar, Shrink, Sprout", "ProgChallOff, Polar, Shrink, Sprout"],
+              "sections": [
+                  {
+                      "name": "Hyperborean Helmet",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Challax",
+                      "x": "237",
+                      "y": "85",
+                      "size": 14
+                  }
+              ]
+          },
+          {
               "name": "Explore the Miniature City",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Polar, Shrink, Sprout", "Dayni Moon"],
+              "access_rules": ["Polar, Shrink, Sprout"],
               "sections": [
                   {
                       "name": "It appears we'll have to catch her first.",
@@ -2933,7 +4198,7 @@
                       "item_count": 1
                   },
                   {
-                      "name": "SP: No More Varmints! (Get over 1900 Points)",
+                      "name": "SP: No More Varmints! (Get over 1535 (1900 in NG+) Points)",
                       "visibility_rules": [ "SkillsOn" ],
                       "item_count": 1
                   }
@@ -2949,11 +4214,19 @@
           },
           {
               "name": "Gadgetron Vendor",
+              "access_rules": ["Shrink"],
               "chest_unopened_img": "images/crate.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Sniper Mine - 50,000",
+                      "visibility_rules": ["SnipeTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Sniper Mine Titan - 500,000",
+                      "visibility_rules": [ "SnipeTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   },
                   {
@@ -2982,26 +4255,50 @@
               "sections": [
                   {
                       "name": "Lacerator Double Barrel Mod - 30,000",
+                      "visibility_rules": ["LacTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Acid Bomb Acid Burn Mod - 30,000",
+                      "visibility_rules": ["AcidTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Acid Bomb Epoxy Mod - 50,000",
+                      "visibility_rules": ["AcidTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Concussion Gun Lock On Mod - 5,000",
+                      "visibility_rules": ["ConTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Concussion Gun Charge Up Mod - 50,000",
+                      "visibility_rules": ["ConTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Bee Mine Glove Worker Mod - 5,000",
+                      "visibility_rules": ["BeeTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Sniper Mine Smart Reflector Mod - 750,000",
+                      "visibility_rules": [ "SnipeTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Shock Rocket Multi Launcher Mod - 2,000,000",
+                      "visibility_rules": [ "ShockTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Laser Tracer Pierce Mod - 1,250,000",
+                      "visibility_rules": [ "LaserTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
                       "item_count": 1
                   }
               ],
@@ -3093,6 +4390,48 @@
                       "size": 14
                   }
               ]
+          },
+          {
+              "name": "Entrance",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Challax",
+                      "x": "276",
+                      "y": "368",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Elevator",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Polar, Shrink, Sprout"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Challax",
+                      "x": "221",
+                      "y": "109",
+                      "size": 14
+                  }
+              ]
           }
       ]
   },
@@ -3124,7 +4463,7 @@
               "name": "Before Luna Fight",
               "chest_unopened_img": "images/items/armor/BombHelmet.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Sprout"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout", "Concussion, ClankPackOff, Sprout", "Sniper, ClankPackOff, Sprout", "Shock, ClankPackOff, Sprout", "Laser, ClankPackOff, Sprout", "RYNO, ClankPackOff, Sprout","Lacerator, ClankPackOn, Heli, Sprout", "Concussion, ClankPackOn, Heli, Sprout", "Sniper, ClankPackOn, Heli, Sprout", "Shock, ClankPackOn, Heli, Sprout", "Laser, ClankPackOn, Heli, Sprout", "RYNO, ClankPackOn, Heli, Sprout"],
               "sections": [
                   {
                       "name": "Mega Bomb Helmet",
@@ -3144,7 +4483,7 @@
               "name": "Luna",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Sprout"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout", "Concussion, ClankPackOff, Sprout", "Sniper, ClankPackOff, Sprout", "Shock, ClankPackOff, Sprout", "Laser, ClankPackOff, Sprout", "RYNO, ClankPackOff, Sprout","Lacerator, ClankPackOn, Heli, Sprout", "Concussion, ClankPackOn, Heli, Sprout", "Sniper, ClankPackOn, Heli, Sprout", "Shock, ClankPackOn, Heli, Sprout", "Laser, ClankPackOn, Heli, Sprout", "RYNO, ClankPackOn, Heli, Sprout"],
               "sections": [
                   {
                       "name": "Catch Luna",
@@ -3183,105 +4522,105 @@
                       "name": "Welcome to Dayni",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Round Up!",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Variety Is Shocking",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Tom Sawyer",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Smasherbot Returns!",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, DerbyOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "HAY-re We Are!",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Tri-bomb Tournament",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "A-rooouund the Bend",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "The Thin Bouncy Line",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "The Ultimate Showdown",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
+                      "visibility_rules": [ "ClankChallOn, TossOn", "ClankChallItem, TossOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Two's A Crowd",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Reverse Into Victory",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Emergency Bridge",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Leap Of Faith",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Infinite Improbability",
               "chest_unopened_img": "images/clank.png",
               "chest_opened_img": "images/complete.png",
-                      "visibility_rules": [ "ClankChallOn", "ClankChallItem" ],
+                      "visibility_rules": [ "ClankChallOn, GadgeOn", "ClankChallItem, GadgeOn" ],
                       "item_count": 1
                   },
                   {
@@ -3308,6 +4647,19 @@
               "sections": [
                   {
                       "name": "Shock Rocket - 55,000",
+                      "visibility_rules": ["ShockTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Shock Rocket Titan - 1,250,000",
+                      "visibility_rules": [ "ShockTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Mootator Titan - 1,500,000",
+                      "visibility_rules": [ "MooTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   },
                   {
@@ -3350,7 +4702,7 @@
               "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
-              "access_rules": ["Sprout"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout", "Concussion, ClankPackOff, Sprout", "Sniper, ClankPackOff, Sprout", "Shock, ClankPackOff, Sprout", "Laser, ClankPackOff, Sprout", "RYNO, ClankPackOff, Sprout","Lacerator, ClankPackOn, Heli, Sprout", "Concussion, ClankPackOn, Heli, Sprout", "Sniper, ClankPackOn, Heli, Sprout", "Shock, ClankPackOn, Heli, Sprout", "Laser, ClankPackOn, Heli, Sprout", "RYNO, ClankPackOn, Heli, Sprout"],
               "sections": [
                   {
                       "name": "Complete level 8 without killing any Angry Rams.",
@@ -3390,7 +4742,7 @@
               "name": "Bounce on the Blue Mimic",
               "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Shrink, Sprout"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Shrink", "Concussion, ClankPackOff, Sprout, Shrink", "Sniper, ClankPackOff, Sprout, Shrink", "Shock, ClankPackOff, Sprout, Shrink", "Laser, ClankPackOff, Sprout, Shrink", "RYNO, ClankPackOff, Sprout, Shrink","Lacerator, ClankPackOn, Heli, Sprout, Shrink", "Concussion, ClankPackOn, Heli, Sprout, Shrink", "Sniper, ClankPackOn, Heli, Sprout, Shrink", "Shock, ClankPackOn, Heli, Sprout, Shrink", "Laser, ClankPackOn, Heli, Sprout, Shrink", "RYNO, ClankPackOn, Heli, Sprout, Shrink"],
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -3401,6 +4753,27 @@
                   {
                       "map": "Dayni Moon",
                       "x": "225",
+                      "y": "373",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Titanium Bolt Entrance",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Shrink", "Concussion, ClankPackOff, Sprout, Shrink", "Sniper, ClankPackOff, Sprout, Shrink", "Shock, ClankPackOff, Sprout, Shrink", "Laser, ClankPackOff, Sprout, Shrink", "RYNO, ClankPackOff, Sprout, Shrink","Lacerator, ClankPackOn, Heli, Sprout, Shrink", "Concussion, ClankPackOn, Heli, Sprout, Shrink", "Sniper, ClankPackOn, Heli, Sprout, Shrink", "Shock, ClankPackOn, Heli, Sprout, Shrink", "Laser, ClankPackOn, Heli, Sprout, Shrink", "RYNO, ClankPackOn, Heli, Sprout, Shrink"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Dayni Moon",
+                      "x": "246",
                       "y": "373",
                       "size": 14
                   }
@@ -3416,7 +4789,7 @@
               "name": "Clank's Body",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Dayni Moon, Sprout"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon", "Concussion, ClankPackOff, Sprout, Dayni Moon", "Sniper, ClankPackOff, Sprout, Dayni Moon", "Shock, ClankPackOff, Sprout, Dayni Moon", "Laser, ClankPackOff, Sprout, Dayni Moon", "RYNO, ClankPackOff, Sprout, Dayni Moon","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon"],
               "sections": [
                   {
                       "name": "Enter Planet",
@@ -3437,7 +4810,7 @@
               "name": "Defeat all Technomites",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Concussion, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Sniper, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Shock, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Laser, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "RYNO, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar"],
               "sections": [
                   {
                       "name": "Stand back son...",
@@ -3456,7 +4829,7 @@
           },
           {
               "name": "Clank's Mouth",
-              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar, Hypershot"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Concussion, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Sniper, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Shock, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Laser, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "RYNO, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot"],
               "sections": [
                   {
                       "name": "Mega Bomb Chestplate",
@@ -3475,10 +4848,32 @@
               ]
           },
           {
+              "name": "At the Start",
+              "visibility_rules": [ "NGP2" ],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon", "Concussion, ClankPackOff, Sprout, Dayni Moon", "Sniper, ClankPackOff, Sprout, Dayni Moon", "Shock, ClankPackOff, Sprout, Dayni Moon", "Laser, ClankPackOff, Sprout, Dayni Moon", "RYNO, ClankPackOff, Sprout, Dayni Moon","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon"],
+              "sections": [
+                  {
+                      "name": "Chameleon Helmet",
+              "access_rules": ["ProgChallOn, ProgNG2", "ProgChallOff"],
+              "chest_unopened_img": "images/items/armor/ChaHelmet.png",
+              "chest_opened_img": "images/complete.png",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Inside Clank Body",
+                      "x": "353",
+                      "y": "98",
+                      "size": 14
+                  }
+              ]
+          },
+          {
               "name": "Escape from Clank",
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar, Hypershot"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Concussion, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Sniper, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Shock, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Laser, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "RYNO, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot"],
               "sections": [
                   {
                       "name": "What happened?!",
@@ -3499,9 +4894,17 @@
               "name": "Gadgetron Vendor",
               "chest_unopened_img": "images/crate.png",
               "chest_opened_img": "images/complete.png",
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon", "Concussion, ClankPackOff, Sprout, Dayni Moon", "Sniper, ClankPackOff, Sprout, Dayni Moon", "Shock, ClankPackOff, Sprout, Dayni Moon", "Laser, ClankPackOff, Sprout, Dayni Moon", "RYNO, ClankPackOff, Sprout, Dayni Moon","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon"],
               "sections": [
                   {
                       "name": "Static Barrier - 65,000",
+                      "visibility_rules": ["StaticTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Static Barrier Titan - 2,500,000",
+                      "visibility_rules": [ "StaticTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   }
               ],
@@ -3519,7 +4922,7 @@
               "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
-              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Concussion, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Sniper, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Shock, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "Laser, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar", "RYNO, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar"],
               "sections": [
                   {
                       "name": "Beat the enemy segment using only the wrench.",
@@ -3540,7 +4943,7 @@
               "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
-              "access_rules": ["Dayni Moon, Sprout, Shrink, Polar, Hypershot"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Concussion, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Sniper, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Shock, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Laser, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "RYNO, ClankPackOff, Sprout, Dayni Moon, Shrink, Polar, Hypershot","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink, Polar, Hypershot"],
               "sections": [
                   {
                       "name": "Don't get hit at all while inside Clank's head",
@@ -3560,7 +4963,7 @@
               "name": "Walk Behind the Ladder",
               "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Dayni Moon, Sprout"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon", "Concussion, ClankPackOff, Sprout, Dayni Moon", "Sniper, ClankPackOff, Sprout, Dayni Moon", "Shock, ClankPackOff, Sprout, Dayni Moon", "Laser, ClankPackOff, Sprout, Dayni Moon", "RYNO, ClankPackOff, Sprout, Dayni Moon","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon"],
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -3580,7 +4983,7 @@
               "name": "Wall Jumping Technomite",
               "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Dayni Moon, Sprout"],
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon", "Concussion, ClankPackOff, Sprout, Dayni Moon", "Sniper, ClankPackOff, Sprout, Dayni Moon", "Shock, ClankPackOff, Sprout, Dayni Moon", "Laser, ClankPackOff, Sprout, Dayni Moon", "RYNO, ClankPackOff, Sprout, Dayni Moon","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon"],
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -3592,6 +4995,27 @@
                       "map": "Inside Clank Body",
                       "x": "181",
                       "y": "105",
+                      "size": 14
+                  }
+              ]
+          },
+          {
+              "name": "Heart Room",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Lacerator, ClankPackOff, Sprout, Dayni Moon, Shrink", "Concussion, ClankPackOff, Sprout, Dayni Moon, Shrink", "Sniper, ClankPackOff, Sprout, Dayni Moon, Shrink", "Shock, ClankPackOff, Sprout, Dayni Moon, Shrink", "Laser, ClankPackOff, Sprout, Dayni Moon, Shrink", "RYNO, ClankPackOff, Sprout, Dayni Moon, Shrink","Lacerator, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink", "Concussion, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink", "Sniper, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink", "Shock, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink", "Laser, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink", "RYNO, ClankPackOn, Heli, Sprout, Dayni Moon, Shrink"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Inside Clank Body",
+                      "x": "391",
+                      "y": "288",
                       "size": 14
                   }
               ]
@@ -3624,7 +5048,7 @@
           },
           {
               "name": "Otto",
-              "access_rules": ["Shrink, Hypershot"],
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "Find Otto Destruct",
@@ -3684,6 +5108,13 @@
               "sections": [
                   {
                       "name": "Laser Tracer - 85,000",
+                      "visibility_rules": ["LaserTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Laser Tracer Titan - 250,000",
+                      "visibility_rules": [ "LaserTogOn, NGP1" ],
+              "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff" ],
                       "item_count": 1
                   }
               ],
@@ -3703,22 +5134,39 @@
               "sections": [
                   {
                       "name": "Agents of Doom Launcher Mod - 20,000",
+                      "visibility_rules": ["AgentsTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Scorcher Spitfire Mod - 15,000",
+                      "visibility_rules": ["ScorchTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Sniper Mine Split Beam Mod - 25,000",
+                      "visibility_rules": ["SnipeTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Shock Rocket After Shock Mod - 25,000",
+                      "visibility_rules": ["ShockTogOn"],
                       "item_count": 1
                   },
                   {
                       "name": "Shock Rocket Lock On Mod - 5,000",
+                      "visibility_rules": ["ShockTogOn"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Laser Tracer Ricochet Mod - 500,000",
+                      "visibility_rules": [ "LaserTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
+                      "item_count": 1
+                  },
+                  {
+                      "name": "Static Barrier Mirage Mod - 1,250,000",
+                      "visibility_rules": [ "StaticTogOn, NGP1" ],
+                      "access_rules": ["ProgChallOn, ProgNG1", "ProgChallOff"],
                       "item_count": 1
                   }
               ],
@@ -3736,7 +5184,7 @@
               "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "visibility_rules": [ "SkillsOn" ],
-              "access_rules": ["Shrink, Hypershot"],
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "Complete the enemy portion of level 10 in less than 1:45.",
@@ -3756,7 +5204,7 @@
               "name": "Ratchet Clones and Dummies",
               "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
-              "access_rules": ["Shrink, Hypershot"],
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
               "sections": [
                   {
                       "name": "T-Bolt",
@@ -3768,6 +5216,48 @@
                       "map": "Quodrona",
                       "x": "561",
                       "y": "295",
+                      "size": 28
+                  }
+              ]
+          },
+          {
+              "name": "Entrance",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Quodrona",
+                      "x": "538",
+                      "y": "707",
+                      "size": 28
+                  }
+              ]
+          },
+          {
+              "name": "Clone Training Room",
+              "chest_unopened_img": "images/items/gadget/shrink.png",
+              "chest_opened_img": "images/complete.png",
+              "access_rules": ["Shrink, Hypershot, ClankPackOff", "Shrink, Hypershot, ClankPackOn, Heli"],
+              "visibility_rules": ["ShrinkLoc"],
+              "sections": [
+                  {
+                      "name": "Shrink Ray Grindrail",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Quodrona",
+                      "x": "598",
+                      "y": "303",
                       "size": 28
                   }
               ]
