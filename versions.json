@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "1.4.0",
+			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.4.0/RaC5_Tracker_SLG_1.4.0.zip",
+			"sha256": "f2cdf0c09b71e78a39b27a72d1537357720e17bd48f43928142fe87e4bae9bbe",
+			"changelog": ["Massive 0.5.x comaptible update"]
+		},
+		{
 			"package_version": "1.2.1",
 			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.2.1/RaC5_Tracker_SLG_1.2.1.zip",
 			"sha256": "9f612ce223fbf6eef63f10c9ce6b51ee841f79b74ac045391cc940df85421873",
