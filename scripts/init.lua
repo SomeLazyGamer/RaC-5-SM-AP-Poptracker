@@ -55,7 +55,8 @@ Planets = {
 	"Challax",
 	"Dayni Moon",
 	"Inside Clank",
-	"Quodrona"
+	"Quodrona",
+	"Treehouse"
 }
 print("Planet list: " .. Planets[1])
 for _, name in pairs(Planets) do

@@ -306,6 +306,13 @@ LOCATION_MAPPING = {
 	[77700369] = { {"@Galaxy/RYNO Levels/RYNO: V2"} },
 	[77700370] = { {"@Galaxy/RYNO Levels/RYNO: V3"} },
 	[77700371] = { {"@Galaxy/RYNO Levels/RYNO: V4"} },
+	--HIG Treehouse
+	[77700375] = { {"@Galaxy/High Impact Games Treehouse/^_________^"} },
+	[77700376] = { {"@Galaxy/High Impact Games Treehouse/(>'.')>"} },
+	[77700377] = { {"@Galaxy/HIG/crab"} },
+	[77700378] = { {"@Galaxy/HIG/rock"} },
+	[77700380] = { {"@Galaxy/High Impact Games Treehouse/Shrink Ray Grindrail"} },
+	[77700381] = { {"@Galaxy/High Impact Games Treehouse/All Skill Points"} },
 	--Nanotech
 	[77700122] = { {"@Galaxy/Nanotech Levels: 6-15/Nanotech Level: 6"} },
 	[77700123] = { {"@Galaxy/Nanotech Levels: 6-15/Nanotech Level: 7"} },

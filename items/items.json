@@ -264,6 +264,12 @@
     "codes": "Quodrona"
   },
   {
+    "name": "HIG Treehouse",
+    "type": "toggle",
+    "img": "images/items/planet/HIG.png",
+    "codes": "Treehouse"
+  },
+  {
     "name": "Progressive Armor",
     "type": "progressive",
     "initial_quantity": 0,
@@ -2769,6 +2775,25 @@
     ]
   },
   {
+    "name": "HIG Treehouse",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/HIGChecksOff.png",
+          "name": "HIG Treehouse - Off",
+          "codes": "HIGChecks,HIGChecksOff"
+      },
+      {
+        "img": "images/items/settings/HIGChecksOn.png",
+        "name": "HIG Treehouse - On",
+        "codes": "HIGChecks,HIGChecksOn",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
     "name": "Clank Pack Shuffle",
     "type": "progressive",
     "loop": false,
@@ -3181,5 +3206,70 @@
     "disabled_img": "images/items/settings/AutoTabOff.png",
     "disabled_img_mods": "none",
     "codes": "AutoTab"
+  },
+  {
+    "name": "Goals",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Goal,GoalOtto"
+      },
+      {
+        "codes": "Goal,GoalSkill",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalClank",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalPick",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Otto",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,OttoOff"
+      },
+      {
+        "codes": "Pick,OttoPick"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Skill",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,SkillOff"
+      },
+      {
+        "codes": "Pick,SkillPick"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Clank",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,ClankOff"
+      },
+      {
+        "codes": "Pick,ClankPick"
+      }
+    ]
   }
 ]

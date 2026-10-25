@@ -297,27 +297,21 @@ function onClear(slot_data)
         local obj = Tracker:FindObjectForCode("WeapXP")
         obj.AcquiredCount = (slot_data['weapon_experience_multiplier'])
     end 
-    if slot_data["clank_challenge_groups"]["Gadgetbot Toss"] then
+	if slot_data["clank_challenge_groups"] then
+		local chal = slot_data["clank_challenge_groups"]
+		for position, value in pairs(chal) do
+    		if value == "Gadgetbot Toss" then
         local obj = Tracker:FindObjectForCode("Toss")
-        local stage = slot_data["clank_challenge_groups"]["Gadgetbot Toss"]
-        if obj then
-            obj.CurrentStage = stage
-        end
-    end
-    if slot_data["clank_challenge_groups"]["Demolition Derby"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Demolition Derby" then
         local obj = Tracker:FindObjectForCode("Derby")
-        local stage = slot_data["clank_challenge_groups"]["Demolition Derby"]
-        if obj then
-            obj.CurrentStage = stage
-        end
-    end
-    if slot_data["clank_challenge_groups"]["Gadgetbot"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Gadgetbot" then
         local obj = Tracker:FindObjectForCode("Gadge")
-        local stage = slot_data["clank_challenge_groups"]["Gadgetbot"]
-        if obj then
-            obj.CurrentStage = stage
-        end
-    end
+        		obj.CurrentStage = 1
+    		end
+		end
+	end
     if slot_data['clank_pack'] == true then
         local obj = Tracker:FindObjectForCode("ClankPack")
         if obj then
@@ -330,97 +324,79 @@ function onClear(slot_data)
             obj.CurrentStage = 1
         end
     end
-    if slot_data["enabled_weapons"]["RYNO"] then
+    if slot_data['enable_hig_treehouse'] == true then
+        local obj = Tracker:FindObjectForCode("HIGChecks")
+        if obj then
+            obj.CurrentStage = 1
+        end
+    end
+	if slot_data["enabled_weapons"] then
+		local weapon = slot_data["enabled_weapons"]
+		for position, value in pairs(weapon) do
+    		if value == "RYNO" then
         local obj = Tracker:FindObjectForCode("RYNOTog")
-        local stage = slot_data["enabled_weapons"]["RYNO"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Laser Tracer"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Laser Tracer" then
         local obj = Tracker:FindObjectForCode("LaserTog")
-        local stage = slot_data["enabled_weapons"]["Laser Traser"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Lacerator"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Lacerator" then
         local obj = Tracker:FindObjectForCode("LacTog")
-        local stage = slot_data["enabled_weapons"]["Lacerator"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Mootator"] then
-        local obj = Tracker:FindObjectForCode("MooTog")
-        local stage = slot_data["enabled_weapons"]["Mootator"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Suck Cannon"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Suck Cannon" then
         local obj = Tracker:FindObjectForCode("SuckTog")
-        local stage = slot_data["enabled_weapons"]["Suck Cannon"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Shock Rocket"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Shock Rocket" then
         local obj = Tracker:FindObjectForCode("ShockTog")
-        local stage = slot_data["enabled_weapons"]["Shock Rocket"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Sniper Mine"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Sniper Mine" then
         local obj = Tracker:FindObjectForCode("SnipeTog")
-        local stage = slot_data["enabled_weapons"]["Sniper Mine"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Bee Mine Glove"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Bee Mine Glove" then
         local obj = Tracker:FindObjectForCode("BeeTog")
-        local stage = slot_data["enabled_weapons"]["Bee Mine Glove"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Concussion Gun"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Concussion Gun" then
         local obj = Tracker:FindObjectForCode("ConTog")
-        local stage = slot_data["enabled_weapons"]["Concussion Gun"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Static Barrier"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Static Barrier" then
         local obj = Tracker:FindObjectForCode("StaticTog")
-        local stage = slot_data["enabled_weapons"]["Static Barrier"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Scorcher"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Scorcher" then
         local obj = Tracker:FindObjectForCode("ScorchTog")
-        local stage = slot_data["enabled_weapons"]["Scorcher"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Agents of Doom"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Agents of Doom" then
         local obj = Tracker:FindObjectForCode("AgentsTog")
-        local stage = slot_data["enabled_weapons"]["Agents of Doom"]
-        if obj then
-            obj.CurrentStage = 1
-        end
-    end
-    if slot_data["enabled_weapons"]["Acid Bomb Glove"] then
+        		obj.CurrentStage = 1
+    		elseif value == "Acid Bomb Glove" then
         local obj = Tracker:FindObjectForCode("AcidTog")
-        local stage = slot_data["enabled_weapons"]["Acid Bomb Glove"]
+        		obj.CurrentStage = 1
+    		elseif value == "Mootator" then
+        local obj = Tracker:FindObjectForCode("MooTog")
+        		obj.CurrentStage = 1
+    		end
+		end
+	end
+    if slot_data['goal'] then
+        local obj = Tracker:FindObjectForCode("goal")
+        local stage = slot_data['goal']
         if obj then
-            obj.CurrentStage = 1
+            obj.CurrentStage = stage
         end
     end
+	if slot_data["pick_and_mix_goals"] then
+		local pick = slot_data["pick_and_mix_goals"]
+		for position, value in pairs(pick) do
+    		if value == "defeat_otto" then
+        local obj = Tracker:FindObjectForCode("OttoPick")
+        		obj.CurrentStage = 1
+    		elseif value == "all_skill_points" then
+        local obj = Tracker:FindObjectForCode("SkillPick")
+        		obj.CurrentStage = 1
+    		elseif value == "all_clank_challenges" then
+        local obj = Tracker:FindObjectForCode("ClankPick")
+        		obj.CurrentStage = 1
+    		end
+		end
+	end
 
 	apply_slot_data(slot_data)
 	LOCAL_ITEMS = {}
@@ -495,7 +471,7 @@ function onItem(index, item_id, item_name, player_number)
 	end
 	if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 		print(string.format("local items: %s", dump_table(LOCAL_ITEMS)))
-		--print(string.format("global items: %s", dump_table(GLOBAL_ITEMS)))
+		print(string.format("global items: %s", dump_table(GLOBAL_ITEMS)))
 	end
 	-- track local items via snes interface
 	if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then

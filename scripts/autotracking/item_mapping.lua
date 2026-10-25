@@ -84,6 +84,7 @@ ITEM_MAPPING = {
 	[77700506] = { { "Dayni Moon" }, { "Inside Clank" } },
 	[77700507] = { { "Quodrona" } },
 	[77700508] = { { "Ryllus" } },
+	[77700509] = { { "Treehouse" } },
 	-- Armor
 	[77700201] = { { "FireChest" } },
 	[77700202] = { { "FireHelmet" },{ "FireHelmet" } },
