@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "1.5.0",
+			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.5.0/RaC5_Tracker_SLG_1.5.0.zip",
+			"sha256": "7a4404e1c19ed9948f764dfff67bbc201239c94d97cb602c87a1dc5eef99f603",
+			"changelog": ["The Treehouse Update"]
+		},
+		{
 			"package_version": "1.4.0",
 			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.4.0/RaC5_Tracker_SLG_1.4.0.zip",
 			"sha256": "f2cdf0c09b71e78a39b27a72d1537357720e17bd48f43928142fe87e4bae9bbe",
