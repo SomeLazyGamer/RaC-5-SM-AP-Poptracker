@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "1.5.1",
+			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.5.1/RaC5_Tracker_SLG_1.5.1.zip",
+			"sha256": "17e52ba055352ca145999a5c0b1185f3b3251fc732053d919e667142cb8b7b0c",
+			"changelog": ["Inside Clank Logic Fix"]
+		},
+		{
 			"package_version": "1.5.0",
 			"download_url": "https://github.com/SomeLazyGamer/RaC-5-SM-AP-Poptracker/releases/download/1.5.0/RaC5_Tracker_SLG_1.5.0.zip",
 			"sha256": "7a4404e1c19ed9948f764dfff67bbc201239c94d97cb602c87a1dc5eef99f603",
